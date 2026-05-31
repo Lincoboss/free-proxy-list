@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks5://206.123.156.238:24291",
+    "protocol": "socks5",
+    "ip": "206.123.156.238",
+    "port": 24291,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://206.123.156.238:6055",
     "protocol": "socks5",
     "ip": "206.123.156.238",
@@ -13,10 +26,36 @@
     }
   },
   {
-    "proxy": "socks5://85.155.96.109:1080",
+    "proxy": "socks5://206.123.156.238:7785",
     "protocol": "socks5",
-    "ip": "85.155.96.109",
-    "port": 1080,
+    "ip": "206.123.156.238",
+    "port": 7785,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.238:7434",
+    "protocol": "socks5",
+    "ip": "206.123.156.238",
+    "port": 7434,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.238:5635",
+    "protocol": "socks5",
+    "ip": "206.123.156.238",
+    "port": 5635,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -29,6 +68,19 @@
     "proxy": "socks4://83.56.15.57:5678",
     "protocol": "socks4",
     "ip": "83.56.15.57",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://109.167.83.167:5678",
+    "protocol": "socks4",
+    "ip": "109.167.83.167",
     "port": 5678,
     "https": false,
     "anonymity": "transparent",
@@ -83,19 +135,6 @@
     "ip": "80.24.34.107",
     "port": 8090,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://88.28.222.20:44380",
-    "protocol": "http",
-    "ip": "88.28.222.20",
-    "port": 44380,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
