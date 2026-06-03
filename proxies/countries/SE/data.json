@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "socks5://89.22.230.26:1080",
+    "protocol": "socks5",
+    "ip": "89.22.230.26",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://89.22.226.129:1080",
     "protocol": "socks5",
     "ip": "89.22.226.129",
@@ -39,10 +52,23 @@
     }
   },
   {
-    "proxy": "http://18.162.200.96:8004",
+    "proxy": "socks4://138.124.18.198:1080",
+    "protocol": "socks4",
+    "ip": "138.124.18.198",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://18.170.25.193:4475",
     "protocol": "http",
-    "ip": "18.162.200.96",
-    "port": 8004,
+    "ip": "18.170.25.193",
+    "port": 4475,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -65,10 +91,10 @@
     }
   },
   {
-    "proxy": "http://52.59.218.12:8058",
+    "proxy": "http://54.79.125.20:660",
     "protocol": "http",
-    "ip": "52.59.218.12",
-    "port": 8058,
+    "ip": "54.79.125.20",
+    "port": 660,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -78,10 +104,10 @@
     }
   },
   {
-    "proxy": "http://15.164.225.200:59661",
+    "proxy": "http://63.181.83.210:57805",
     "protocol": "http",
-    "ip": "15.164.225.200",
-    "port": 59661,
+    "ip": "63.181.83.210",
+    "port": 57805,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -91,10 +117,10 @@
     }
   },
   {
-    "proxy": "http://15.229.231.89:25244",
+    "proxy": "http://51.44.97.6:16805",
     "protocol": "http",
-    "ip": "15.229.231.89",
-    "port": 25244,
+    "ip": "51.44.97.6",
+    "port": 16805,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -104,10 +130,10 @@
     }
   },
   {
-    "proxy": "http://43.198.22.151:52998",
+    "proxy": "http://78.12.252.87:24094",
     "protocol": "http",
-    "ip": "43.198.22.151",
-    "port": 52998,
+    "ip": "78.12.252.87",
+    "port": 24094,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
