@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "http://181.114.61.17:8085",
+    "proxy": "http://45.178.55.2:999",
     "protocol": "http",
-    "ip": "181.114.61.17",
-    "port": 8085,
+    "ip": "45.178.55.2",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.209.108.219:999",
+    "protocol": "http",
+    "ip": "181.209.108.219",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
