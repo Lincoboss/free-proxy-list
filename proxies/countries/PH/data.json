@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks5://47.236.131.210:11111",
+    "protocol": "socks5",
+    "ip": "47.236.131.210",
+    "port": 11111,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://120.28.152.190:8082",
     "protocol": "http",
     "ip": "120.28.152.190",
