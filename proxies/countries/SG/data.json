@@ -260,10 +260,23 @@
     }
   },
   {
-    "proxy": "http://8.222.175.80:6128",
+    "proxy": "http://157.230.38.173:3128",
     "protocol": "http",
-    "ip": "8.222.175.80",
-    "port": 6128,
+    "ip": "157.230.38.173",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://139.162.46.62:3128",
+    "protocol": "http",
+    "ip": "139.162.46.62",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
