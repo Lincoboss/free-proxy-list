@@ -1,22 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.220:4637",
-    "protocol": "socks5",
-    "ip": "206.123.156.220",
-    "port": 4637,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.235:5918",
+    "proxy": "socks5://206.123.156.235:5538",
     "protocol": "socks5",
     "ip": "206.123.156.235",
-    "port": 5918,
+    "port": 5538,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +13,23 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.227:5450",
+    "proxy": "socks5://206.123.156.231:4343",
     "protocol": "socks5",
-    "ip": "206.123.156.227",
-    "port": 5450,
+    "ip": "206.123.156.231",
+    "port": 4343,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.223:13001",
+    "protocol": "socks5",
+    "ip": "206.123.156.223",
+    "port": 13001,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,23 +52,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.232:9751",
+    "proxy": "socks5://206.123.156.218:5035",
     "protocol": "socks5",
-    "ip": "206.123.156.232",
-    "port": 9751,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://165.0.100.149:5678",
-    "protocol": "socks4",
-    "ip": "165.0.100.149",
-    "port": 5678,
+    "ip": "206.123.156.218",
+    "port": 5035,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -143,11 +130,11 @@
     }
   },
   {
-    "proxy": "http://102.23.237.121:8080",
+    "proxy": "http://54.180.117.151:46421",
     "protocol": "http",
-    "ip": "102.23.237.121",
-    "port": 8080,
-    "https": false,
+    "ip": "54.180.117.151",
+    "port": 46421,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
