@@ -416,6 +416,19 @@
     }
   },
   {
+    "proxy": "http://130.180.211.56:443",
+    "protocol": "http",
+    "ip": "130.180.211.56",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://80.124.109.22:8090",
     "protocol": "http",
     "ip": "80.124.109.22",
@@ -686,19 +699,6 @@
     "geolocation": {
       "country": "FR",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://173.212.246.157:3128",
-    "protocol": "http",
-    "ip": "173.212.246.157",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Lauterbourg"
     }
   },
   {
@@ -1180,6 +1180,19 @@
     "geolocation": {
       "country": "FR",
       "city": "Paris"
+    }
+  },
+  {
+    "proxy": "http://173.212.246.157:3128",
+    "protocol": "http",
+    "ip": "173.212.246.157",
+    "port": 3128,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Lauterbourg"
     }
   },
   {
