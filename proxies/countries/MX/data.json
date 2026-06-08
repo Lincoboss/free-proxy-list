@@ -39,11 +39,24 @@
     }
   },
   {
-    "proxy": "http://200.52.72.14:443",
+    "proxy": "http://189.196.45.158:999",
     "protocol": "http",
-    "ip": "200.52.72.14",
-    "port": 443,
-    "https": true,
+    "ip": "189.196.45.158",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://38.94.72.33:999",
+    "protocol": "http",
+    "ip": "38.94.72.33",
+    "port": 999,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
