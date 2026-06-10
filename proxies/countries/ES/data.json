@@ -1,9 +1,35 @@
 [
   {
-    "proxy": "socks5://206.123.156.221:14758",
+    "proxy": "socks5://85.117.248.36:1080",
     "protocol": "socks5",
-    "ip": "206.123.156.221",
-    "port": 14758,
+    "ip": "85.117.248.36",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.231:7332",
+    "protocol": "socks5",
+    "ip": "206.123.156.231",
+    "port": 7332,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.234:6964",
+    "protocol": "socks5",
+    "ip": "206.123.156.234",
+    "port": 6964,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -17,32 +43,6 @@
     "protocol": "socks5",
     "ip": "206.123.156.227",
     "port": 15695,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.231:14864",
-    "protocol": "socks5",
-    "ip": "206.123.156.231",
-    "port": 14864,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.211:13166",
-    "protocol": "socks5",
-    "ip": "206.123.156.211",
-    "port": 13166,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -121,6 +121,19 @@
     "protocol": "http",
     "ip": "45.147.251.19",
     "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://217.12.21.132:443",
+    "protocol": "http",
+    "ip": "217.12.21.132",
+    "port": 443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
