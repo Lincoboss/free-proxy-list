@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.233:6713",
+    "proxy": "socks5://206.123.156.220:7483",
     "protocol": "socks5",
-    "ip": "206.123.156.233",
-    "port": 6713,
+    "ip": "206.123.156.220",
+    "port": 7483,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,62 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.225:6686",
+    "proxy": "socks5://206.123.156.218:7985",
+    "protocol": "socks5",
+    "ip": "206.123.156.218",
+    "port": 7985,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.231:4807",
+    "protocol": "socks5",
+    "ip": "206.123.156.231",
+    "port": 4807,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.231:5274",
+    "protocol": "socks5",
+    "ip": "206.123.156.231",
+    "port": 5274,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.213:4182",
+    "protocol": "socks5",
+    "ip": "206.123.156.213",
+    "port": 4182,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.225:6598",
     "protocol": "socks5",
     "ip": "206.123.156.225",
-    "port": 6686,
+    "port": 6598,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +78,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.223:8178",
+    "proxy": "socks5://206.123.156.227:5519",
     "protocol": "socks5",
-    "ip": "206.123.156.223",
-    "port": 8178,
+    "ip": "206.123.156.227",
+    "port": 5519,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -43,6 +95,19 @@
     "protocol": "http",
     "ip": "35.205.61.211",
     "port": 3128,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://178.116.202.246:8090",
+    "protocol": "http",
+    "ip": "178.116.202.246",
+    "port": 8090,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
