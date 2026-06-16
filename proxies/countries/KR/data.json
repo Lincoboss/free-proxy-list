@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://206.123.156.235:8155",
+    "proxy": "socks5://121.169.46.116:1090",
     "protocol": "socks5",
-    "ip": "206.123.156.235",
-    "port": 8155,
+    "ip": "121.169.46.116",
+    "port": 1090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Osan"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.222:5790",
+    "protocol": "socks5",
+    "ip": "206.123.156.222",
+    "port": 5790,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +26,36 @@
     }
   },
   {
-    "proxy": "socks4://125.209.9.182:1080",
-    "protocol": "socks4",
-    "ip": "125.209.9.182",
-    "port": 1080,
+    "proxy": "socks5://206.123.156.222:4964",
+    "protocol": "socks5",
+    "ip": "206.123.156.222",
+    "port": 4964,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.230:5607",
+    "protocol": "socks5",
+    "ip": "206.123.156.230",
+    "port": 5607,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.211:4324",
+    "protocol": "socks5",
+    "ip": "206.123.156.211",
+    "port": 4324,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,19 +117,6 @@
     }
   },
   {
-    "proxy": "http://121.177.104.201:3072",
-    "protocol": "http",
-    "ip": "121.177.104.201",
-    "port": 3072,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://211.230.49.122:3128",
     "protocol": "http",
     "ip": "211.230.49.122",
@@ -101,19 +127,6 @@
     "geolocation": {
       "country": "KR",
       "city": "Seo-gu"
-    }
-  },
-  {
-    "proxy": "socks5://121.169.46.116:1090",
-    "protocol": "socks5",
-    "ip": "121.169.46.116",
-    "port": 1090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Osan"
     }
   },
   {
