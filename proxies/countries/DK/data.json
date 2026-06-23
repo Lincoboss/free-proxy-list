@@ -26,10 +26,23 @@
     }
   },
   {
-    "proxy": "http://15.160.116.45:25901",
+    "proxy": "http://16.26.99.200:4442",
     "protocol": "http",
-    "ip": "15.160.116.45",
-    "port": 25901,
+    "ip": "16.26.99.200",
+    "port": 4442,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "DK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://54.180.117.151:17973",
+    "protocol": "http",
+    "ip": "54.180.117.151",
+    "port": 17973,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
