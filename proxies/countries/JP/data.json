@@ -13,10 +13,23 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.211:5756",
+    "proxy": "socks5://206.123.156.219:5184",
     "protocol": "socks5",
-    "ip": "206.123.156.211",
-    "port": 5756,
+    "ip": "206.123.156.219",
+    "port": 5184,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.238:5476",
+    "protocol": "socks5",
+    "ip": "206.123.156.238",
+    "port": 5476,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -81,19 +94,6 @@
     "proxy": "http://160.16.144.120:443",
     "protocol": "http",
     "ip": "160.16.144.120",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://133.9.6.9:443",
-    "protocol": "http",
-    "ip": "133.9.6.9",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -312,9 +312,9 @@
     }
   },
   {
-    "proxy": "http://116.80.45.46:3172",
+    "proxy": "http://116.80.64.44:3172",
     "protocol": "http",
-    "ip": "116.80.45.46",
+    "ip": "116.80.64.44",
     "port": 3172,
     "https": false,
     "anonymity": "transparent",
@@ -325,9 +325,9 @@
     }
   },
   {
-    "proxy": "http://116.80.48.144:3172",
+    "proxy": "http://116.80.64.13:3172",
     "protocol": "http",
-    "ip": "116.80.48.144",
+    "ip": "116.80.64.13",
     "port": 3172,
     "https": false,
     "anonymity": "transparent",
@@ -341,6 +341,19 @@
     "proxy": "http://116.80.48.138:3172",
     "protocol": "http",
     "ip": "116.80.48.138",
+    "port": 3172,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://116.80.50.99:3172",
+    "protocol": "http",
+    "ip": "116.80.50.99",
     "port": 3172,
     "https": false,
     "anonymity": "transparent",
