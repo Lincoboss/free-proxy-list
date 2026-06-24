@@ -143,19 +143,6 @@
     }
   },
   {
-    "proxy": "http://195.231.48.238:8443",
-    "protocol": "http",
-    "ip": "195.231.48.238",
-    "port": 8443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://37.207.230.114:9443",
     "protocol": "http",
     "ip": "37.207.230.114",
@@ -485,19 +472,6 @@
     "protocol": "http",
     "ip": "79.7.171.7",
     "port": 7565,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://79.7.171.7:3131",
-    "protocol": "http",
-    "ip": "79.7.171.7",
-    "port": 3131,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -1326,6 +1300,19 @@
     }
   },
   {
+    "proxy": "http://79.7.171.7:466",
+    "protocol": "http",
+    "ip": "79.7.171.7",
+    "port": 466,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://79.7.171.7:4730",
     "protocol": "http",
     "ip": "79.7.171.7",
@@ -2041,11 +2028,37 @@
     }
   },
   {
-    "proxy": "http://93.187.26.218:58080",
+    "proxy": "http://79.7.171.7:5427",
     "protocol": "http",
-    "ip": "93.187.26.218",
-    "port": 58080,
-    "https": false,
+    "ip": "79.7.171.7",
+    "port": 5427,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://15.160.108.18:443",
+    "protocol": "http",
+    "ip": "15.160.108.18",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://79.7.171.7:1090",
+    "protocol": "http",
+    "ip": "79.7.171.7",
+    "port": 1090,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
