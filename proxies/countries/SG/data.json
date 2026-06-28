@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "socks5://64.176.82.76:1080",
+    "proxy": "socks5://172.104.174.116:1080",
     "protocol": "socks5",
-    "ip": "64.176.82.76",
+    "ip": "172.104.174.116",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
@@ -39,19 +39,6 @@
     }
   },
   {
-    "proxy": "socks5://206.189.144.164:10808",
-    "protocol": "socks5",
-    "ip": "206.189.144.164",
-    "port": 10808,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://45.43.63.37:10808",
     "protocol": "socks5",
     "ip": "45.43.63.37",
@@ -62,6 +49,19 @@
     "geolocation": {
       "country": "SG",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://34.124.190.108:8080",
+    "protocol": "socks4",
+    "ip": "34.124.190.108",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Singapore"
     }
   },
   {
@@ -273,6 +273,19 @@
     }
   },
   {
+    "proxy": "http://154.26.138.78:443",
+    "protocol": "http",
+    "ip": "154.26.138.78",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://13.250.27.37:443",
     "protocol": "http",
     "ip": "13.250.27.37",
@@ -416,6 +429,19 @@
     }
   },
   {
+    "proxy": "http://188.166.208.168:9876",
+    "protocol": "http",
+    "ip": "188.166.208.168",
+    "port": 9876,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://13.215.176.57:9090",
     "protocol": "http",
     "ip": "13.215.176.57",
@@ -435,19 +461,6 @@
     "port": 80,
     "https": false,
     "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Singapore"
-    }
-  },
-  {
-    "proxy": "socks4://34.124.190.108:8080",
-    "protocol": "socks4",
-    "ip": "34.124.190.108",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "SG",
