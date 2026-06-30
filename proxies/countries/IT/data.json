@@ -26,6 +26,45 @@
     }
   },
   {
+    "proxy": "socks4://94.198.211.217:5678",
+    "protocol": "socks4",
+    "ip": "94.198.211.217",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://94.198.213.252:5678",
+    "protocol": "socks4",
+    "ip": "94.198.213.252",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://2.115.212.62:48293",
+    "protocol": "socks4",
+    "ip": "2.115.212.62",
+    "port": 48293,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://95.110.141.122:8888",
     "protocol": "http",
     "ip": "95.110.141.122",
@@ -199,19 +238,6 @@
     "protocol": "http",
     "ip": "95.229.15.89",
     "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://5.59.248.134:8443",
-    "protocol": "http",
-    "ip": "5.59.248.134",
-    "port": 8443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -2496,6 +2522,19 @@
     }
   },
   {
+    "proxy": "http://34.222.118.149:57538",
+    "protocol": "http",
+    "ip": "34.222.118.149",
+    "port": 57538,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://79.7.171.7:1397",
     "protocol": "http",
     "ip": "79.7.171.7",
@@ -3631,6 +3670,19 @@
     "protocol": "http",
     "ip": "79.7.171.7",
     "port": 7556,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://79.7.171.7:3129",
+    "protocol": "http",
+    "ip": "79.7.171.7",
+    "port": 3129,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
