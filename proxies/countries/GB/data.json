@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://217.177.33.53:1080",
+    "proxy": "socks5://5.181.23.213:8443",
     "protocol": "socks5",
-    "ip": "217.177.33.53",
-    "port": 1080,
+    "ip": "5.181.23.213",
+    "port": 8443,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://92.63.226.78:2080",
+    "proxy": "socks5://206.123.156.199:10742",
     "protocol": "socks5",
-    "ip": "92.63.226.78",
-    "port": 2080,
+    "ip": "206.123.156.199",
+    "port": 10742,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,10 +39,36 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.230:7486",
+    "proxy": "socks5://206.123.156.215:4758",
     "protocol": "socks5",
-    "ip": "206.123.156.230",
-    "port": 7486,
+    "ip": "206.123.156.215",
+    "port": 4758,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.199:6917",
+    "protocol": "socks5",
+    "ip": "206.123.156.199",
+    "port": 6917,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.229:5425",
+    "protocol": "socks5",
+    "ip": "206.123.156.229",
+    "port": 5425,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -299,37 +325,11 @@
     }
   },
   {
-    "proxy": "http://166.0.9.102:9443",
+    "proxy": "http://166.0.9.2:9443",
     "protocol": "http",
-    "ip": "166.0.9.102",
+    "ip": "166.0.9.2",
     "port": 9443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GB",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://166.0.9.106:9443",
-    "protocol": "http",
-    "ip": "166.0.9.106",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GB",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://89.43.133.229:8080",
-    "protocol": "http",
-    "ip": "89.43.133.229",
-    "port": 8080,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
