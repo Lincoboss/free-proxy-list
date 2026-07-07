@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://177.234.248.186:443",
-    "protocol": "http",
-    "ip": "177.234.248.186",
-    "port": 443,
-    "https": true,
+    "proxy": "socks4://200.105.252.170:5678",
+    "protocol": "socks4",
+    "ip": "200.105.252.170",
+    "port": 5678,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {

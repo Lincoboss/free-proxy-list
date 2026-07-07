@@ -13,10 +13,23 @@
     }
   },
   {
-    "proxy": "http://54.188.236.206:8991",
+    "proxy": "socks5://156.232.99.59:10801",
+    "protocol": "socks5",
+    "ip": "156.232.99.59",
+    "port": 10801,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://18.60.247.31:54439",
     "protocol": "http",
-    "ip": "54.188.236.206",
-    "port": 8991,
+    "ip": "18.60.247.31",
+    "port": 54439,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
