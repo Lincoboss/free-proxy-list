@@ -1,44 +1,5 @@
 [
   {
-    "proxy": "socks5://160.250.54.5:9000",
-    "protocol": "socks5",
-    "ip": "160.250.54.5",
-    "port": 9000,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://160.22.17.4:9988",
-    "protocol": "socks5",
-    "ip": "160.22.17.4",
-    "port": 9988,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://113.179.139.79:1080",
-    "protocol": "socks4",
-    "ip": "113.179.139.79",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://113.161.161.22:443",
     "protocol": "http",
     "ip": "113.161.161.22",
@@ -130,9 +91,35 @@
     }
   },
   {
+    "proxy": "http://103.179.172.167:8888",
+    "protocol": "http",
+    "ip": "103.179.172.167",
+    "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://203.162.13.222:6868",
     "protocol": "http",
     "ip": "203.162.13.222",
+    "port": 6868,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://203.162.13.26:6868",
+    "protocol": "http",
+    "ip": "203.162.13.26",
     "port": 6868,
     "https": false,
     "anonymity": "transparent",
@@ -147,19 +134,6 @@
     "protocol": "http",
     "ip": "103.166.185.54",
     "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.15.222.192:10216",
-    "protocol": "http",
-    "ip": "103.15.222.192",
-    "port": 10216,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
