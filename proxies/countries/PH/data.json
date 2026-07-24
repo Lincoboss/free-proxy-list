@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://124.105.55.176:30906",
+    "protocol": "socks4",
+    "ip": "124.105.55.176",
+    "port": 30906,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://202.183.37.129:443",
     "protocol": "http",
     "ip": "202.183.37.129",
@@ -39,32 +52,6 @@
     }
   },
   {
-    "proxy": "http://161.49.89.217:8081",
-    "protocol": "http",
-    "ip": "161.49.89.217",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://124.105.42.227:8081",
-    "protocol": "http",
-    "ip": "124.105.42.227",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://120.28.152.190:8082",
     "protocol": "http",
     "ip": "120.28.152.190",
@@ -75,6 +62,19 @@
     "geolocation": {
       "country": "PH",
       "city": "San Juan"
+    }
+  },
+  {
+    "proxy": "http://124.107.39.186:8082",
+    "protocol": "http",
+    "ip": "124.107.39.186",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
     }
   }
 ]
