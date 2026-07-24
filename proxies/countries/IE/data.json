@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "socks5://206.123.156.215:5102",
-    "protocol": "socks5",
-    "ip": "206.123.156.215",
-    "port": 5102,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.234:6487",
-    "protocol": "socks5",
-    "ip": "206.123.156.234",
-    "port": 6487,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://206.123.156.234:10608",
     "protocol": "socks5",
     "ip": "206.123.156.234",
@@ -39,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.215:5737",
+    "proxy": "socks5://206.123.156.215:11384",
     "protocol": "socks5",
     "ip": "206.123.156.215",
-    "port": 5737,
+    "port": 11384,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,23 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.234:9923",
+    "proxy": "socks5://206.123.156.247:4137",
     "protocol": "socks5",
-    "ip": "206.123.156.234",
-    "port": 9923,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://91.107.144.121:9090",
-    "protocol": "socks4",
-    "ip": "91.107.144.121",
-    "port": 9090,
+    "ip": "206.123.156.247",
+    "port": 4137,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -224,6 +185,19 @@
     "proxy": "http://34.248.176.69:443",
     "protocol": "http",
     "ip": "34.248.176.69",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://3.248.204.213:443",
+    "protocol": "http",
+    "ip": "3.248.204.213",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
