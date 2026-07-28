@@ -26,10 +26,23 @@
     }
   },
   {
-    "proxy": "http://18.60.247.31:8899",
+    "proxy": "http://43.208.134.144:45841",
     "protocol": "http",
-    "ip": "18.60.247.31",
-    "port": 8899,
+    "ip": "43.208.134.144",
+    "port": 45841,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://3.127.27.51:22693",
+    "protocol": "http",
+    "ip": "3.127.27.51",
+    "port": 22693,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
