@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://218.52.249.121:1080",
+    "proxy": "socks5://121.169.46.116:1090",
     "protocol": "socks5",
-    "ip": "218.52.249.121",
-    "port": 1080,
+    "ip": "121.169.46.116",
+    "port": 1090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Osan"
+    }
+  },
+  {
+    "proxy": "socks5://47.238.104.89:8888",
+    "protocol": "socks5",
+    "ip": "47.238.104.89",
+    "port": 8888,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -69,6 +82,19 @@
     "protocol": "socks5",
     "ip": "168.107.13.220",
     "port": 50161,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://175.203.138.160:5678",
+    "protocol": "socks4",
+    "ip": "175.203.138.160",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -195,6 +221,19 @@
     }
   },
   {
+    "proxy": "http://221.148.175.109:443",
+    "protocol": "http",
+    "ip": "221.148.175.109",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://158.247.204.254:8443",
     "protocol": "http",
     "ip": "158.247.204.254",
@@ -221,23 +260,10 @@
     }
   },
   {
-    "proxy": "http://119.195.17.15:3056",
+    "proxy": "http://47.80.60.84:3128",
     "protocol": "http",
-    "ip": "119.195.17.15",
-    "port": 3056,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://118.47.244.155:3124",
-    "protocol": "http",
-    "ip": "118.47.244.155",
-    "port": 3124,
+    "ip": "47.80.60.84",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -257,19 +283,6 @@
     "geolocation": {
       "country": "KR",
       "city": "Seo-gu"
-    }
-  },
-  {
-    "proxy": "socks5://121.169.46.116:1090",
-    "protocol": "socks5",
-    "ip": "121.169.46.116",
-    "port": 1090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Osan"
     }
   },
   {
