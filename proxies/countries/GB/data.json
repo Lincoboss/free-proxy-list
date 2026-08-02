@@ -1,5 +1,57 @@
 [
   {
+    "proxy": "socks5://77.245.76.107:1080",
+    "protocol": "socks5",
+    "ip": "77.245.76.107",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://178.218.119.29:10808",
+    "protocol": "socks5",
+    "ip": "178.218.119.29",
+    "port": 10808,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://5.157.64.213:1080",
+    "protocol": "socks4",
+    "ip": "5.157.64.213",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Blackpool"
+    }
+  },
+  {
+    "proxy": "socks4://95.31.220.59:8080",
+    "protocol": "socks4",
+    "ip": "95.31.220.59",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://23.106.56.11:7714",
     "protocol": "http",
     "ip": "23.106.56.11",
@@ -221,22 +273,9 @@
     }
   },
   {
-    "proxy": "http://166.0.9.2:9443",
+    "proxy": "http://166.0.9.112:9443",
     "protocol": "http",
-    "ip": "166.0.9.2",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GB",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://166.0.9.122:9443",
-    "protocol": "http",
-    "ip": "166.0.9.122",
+    "ip": "166.0.9.112",
     "port": 9443,
     "https": true,
     "anonymity": "transparent",
@@ -413,19 +452,6 @@
     "geolocation": {
       "country": "GB",
       "city": ""
-    }
-  },
-  {
-    "proxy": "socks4://5.157.64.213:1080",
-    "protocol": "socks4",
-    "ip": "5.157.64.213",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GB",
-      "city": "Blackpool"
     }
   },
   {
