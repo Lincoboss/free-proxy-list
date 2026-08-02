@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://43.160.255.142:7890",
+    "proxy": "socks5://140.245.53.190:1088",
     "protocol": "socks5",
-    "ip": "43.160.255.142",
-    "port": 7890,
+    "ip": "140.245.53.190",
+    "port": 1088,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,10 +39,10 @@
     }
   },
   {
-    "proxy": "socks4://45.76.182.157:1081",
+    "proxy": "socks4://140.245.104.198:10808",
     "protocol": "socks4",
-    "ip": "45.76.182.157",
-    "port": 1081,
+    "ip": "140.245.104.198",
+    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -312,9 +312,9 @@
     }
   },
   {
-    "proxy": "http://103.107.198.242:9443",
+    "proxy": "http://103.107.198.226:9443",
     "protocol": "http",
-    "ip": "103.107.198.242",
+    "ip": "103.107.198.226",
     "port": 9443,
     "https": true,
     "anonymity": "transparent",
@@ -342,6 +342,19 @@
     "protocol": "http",
     "ip": "47.84.230.119",
     "port": 6443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://154.26.138.75:443",
+    "protocol": "http",
+    "ip": "154.26.138.75",
+    "port": 443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -434,32 +447,6 @@
     "ip": "66.42.59.169",
     "port": 8888,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://188.166.179.50:3128",
-    "protocol": "http",
-    "ip": "188.166.179.50",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://188.166.208.168:9876",
-    "protocol": "http",
-    "ip": "188.166.208.168",
-    "port": 9876,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
