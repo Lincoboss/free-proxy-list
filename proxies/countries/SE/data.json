@@ -1,22 +1,9 @@
 [
   {
-    "proxy": "socks5://171.25.158.95:1080",
+    "proxy": "socks5://37.18.73.60:5566",
     "protocol": "socks5",
-    "ip": "171.25.158.95",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://89.22.238.103:38871",
-    "protocol": "socks5",
-    "ip": "89.22.238.103",
-    "port": 38871,
+    "ip": "37.18.73.60",
+    "port": 5566,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,32 +26,6 @@
     }
   },
   {
-    "proxy": "socks5://2.248.72.25:1080",
-    "protocol": "socks5",
-    "ip": "2.248.72.25",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://147.45.72.31:45700",
-    "protocol": "socks4",
-    "ip": "147.45.72.31",
-    "port": 45700,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://77.221.136.60:8443",
     "protocol": "http",
     "ip": "77.221.136.60",
@@ -78,9 +39,22 @@
     }
   },
   {
-    "proxy": "http://166.0.9.192:9443",
+    "proxy": "http://166.0.9.194:9443",
     "protocol": "http",
-    "ip": "166.0.9.192",
+    "ip": "166.0.9.194",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://166.0.9.198:9443",
+    "protocol": "http",
+    "ip": "166.0.9.198",
     "port": 9443,
     "https": true,
     "anonymity": "transparent",
@@ -96,19 +70,6 @@
     "ip": "46.246.39.246",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://90.156.210.99:8118",
-    "protocol": "http",
-    "ip": "90.156.210.99",
-    "port": 8118,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
