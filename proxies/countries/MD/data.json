@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "http://43.208.134.144:41759",
+    "proxy": "http://178.175.134.186:443",
     "protocol": "http",
-    "ip": "43.208.134.144",
-    "port": 41759,
+    "ip": "178.175.134.186",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MD",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://178.175.134.186:9443",
+    "protocol": "http",
+    "ip": "178.175.134.186",
+    "port": 9443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
