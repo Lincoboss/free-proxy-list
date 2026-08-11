@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks5://95.105.28.76:1080",
+    "protocol": "socks5",
+    "ip": "95.105.28.76",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://151.115.99.193:10006",
     "protocol": "socks5",
     "ip": "151.115.99.193",
@@ -13,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://194.87.76.214:9050",
+    "proxy": "socks5://185.40.86.232:1080",
     "protocol": "socks5",
-    "ip": "194.87.76.214",
-    "port": 9050,
+    "ip": "185.40.86.232",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,23 +39,49 @@
     }
   },
   {
-    "proxy": "socks4://91.150.189.122:60647",
+    "proxy": "socks4://185.32.4.102:4153",
     "protocol": "socks4",
-    "ip": "91.150.189.122",
-    "port": 60647,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://185.32.4.110:4153",
-    "protocol": "socks4",
-    "ip": "185.32.4.110",
+    "ip": "185.32.4.102",
     "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://83.168.101.27:5678",
+    "protocol": "socks4",
+    "ip": "83.168.101.27",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://185.32.4.126:4153",
+    "protocol": "socks4",
+    "ip": "185.32.4.126",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://204.11.2.204:9093",
+    "protocol": "socks4",
+    "ip": "204.11.2.204",
+    "port": 9093,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -330,19 +369,6 @@
     "ip": "31.186.220.204",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://148.81.121.5:8080",
-    "protocol": "http",
-    "ip": "148.81.121.5",
-    "port": 8080,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {

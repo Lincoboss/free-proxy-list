@@ -1,9 +1,48 @@
 [
   {
+    "proxy": "socks5://193.221.203.14:1080",
+    "protocol": "socks5",
+    "ip": "193.221.203.14",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://193.233.139.106:1080",
     "protocol": "socks5",
     "ip": "193.233.139.106",
     "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://31.76.80.215:1080",
+    "protocol": "socks5",
+    "ip": "31.76.80.215",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://185.216.71.90:10808",
+    "protocol": "socks5",
+    "ip": "185.216.71.90",
+    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,9 +65,22 @@
     }
   },
   {
-    "proxy": "socks4://116.203.19.71:9091",
+    "proxy": "socks4://77.90.8.154:9091",
     "protocol": "socks4",
-    "ip": "116.203.19.71",
+    "ip": "77.90.8.154",
+    "port": 9091,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://91.107.243.254:9091",
+    "protocol": "socks4",
+    "ip": "91.107.243.254",
     "port": 9091,
     "https": false,
     "anonymity": "transparent",
@@ -82,19 +134,6 @@
     "protocol": "http",
     "ip": "65.108.64.240",
     "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://166.0.9.154:9443",
-    "protocol": "http",
-    "ip": "166.0.9.154",
-    "port": 9443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
