@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://202.95.15.6:1080",
-    "protocol": "socks5",
-    "ip": "202.95.15.6",
-    "port": 1080,
+    "proxy": "socks4://180.158.166.144:4145",
+    "protocol": "socks4",
+    "ip": "180.158.166.144",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://183.6.57.161:5678",
+    "protocol": "socks4",
+    "ip": "183.6.57.161",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
