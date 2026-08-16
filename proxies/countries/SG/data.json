@@ -39,36 +39,10 @@
     }
   },
   {
-    "proxy": "socks5://43.156.201.214:2080",
-    "protocol": "socks5",
-    "ip": "43.156.201.214",
-    "port": 2080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://109.199.105.194:1080",
     "protocol": "socks5",
     "ip": "109.199.105.194",
     "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://178.128.82.131:10808",
-    "protocol": "socks5",
-    "ip": "178.128.82.131",
-    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -286,6 +260,19 @@
     }
   },
   {
+    "proxy": "http://154.26.137.244:443",
+    "protocol": "http",
+    "ip": "154.26.137.244",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://47.84.230.119:6443",
     "protocol": "http",
     "ip": "47.84.230.119",
@@ -377,6 +364,19 @@
     }
   },
   {
+    "proxy": "http://77.221.149.55:8443",
+    "protocol": "http",
+    "ip": "77.221.149.55",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://103.79.76.91:1234",
     "protocol": "http",
     "ip": "103.79.76.91",
@@ -408,19 +408,6 @@
     "ip": "47.129.206.123",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.147.109.250:3128",
-    "protocol": "http",
-    "ip": "103.147.109.250",
-    "port": 3128,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
