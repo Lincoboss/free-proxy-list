@@ -26,11 +26,11 @@
     }
   },
   {
-    "proxy": "http://37.120.213.210:9443",
-    "protocol": "http",
-    "ip": "37.120.213.210",
-    "port": 9443,
-    "https": true,
+    "proxy": "socks4://216.106.179.216:49302",
+    "protocol": "socks4",
+    "ip": "216.106.179.216",
+    "port": 49302,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
