@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "http://89.43.135.9:8080",
+    "proxy": "http://89.43.135.182:8085",
     "protocol": "http",
-    "ip": "89.43.135.9",
-    "port": 8080,
+    "ip": "89.43.135.182",
+    "port": 8085,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://193.43.140.222:7890",
+    "protocol": "http",
+    "ip": "193.43.140.222",
+    "port": 7890,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
