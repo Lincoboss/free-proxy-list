@@ -13,45 +13,6 @@
     }
   },
   {
-    "proxy": "socks5://62.60.230.196:1080",
-    "protocol": "socks5",
-    "ip": "62.60.230.196",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://2.248.72.25:1080",
-    "protocol": "socks5",
-    "ip": "2.248.72.25",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://45.61.129.165:9050",
-    "protocol": "socks4",
-    "ip": "45.61.129.165",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://77.221.136.60:8443",
     "protocol": "http",
     "ip": "77.221.136.60",
@@ -78,10 +39,10 @@
     }
   },
   {
-    "proxy": "http://45.142.141.5:8443",
+    "proxy": "http://13.60.163.108:3630",
     "protocol": "http",
-    "ip": "45.142.141.5",
-    "port": 8443,
+    "ip": "13.60.163.108",
+    "port": 3630,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -91,10 +52,36 @@
     }
   },
   {
-    "proxy": "http://51.84.101.19:8202",
+    "proxy": "http://3.121.130.230:5000",
     "protocol": "http",
-    "ip": "51.84.101.19",
-    "port": 8202,
+    "ip": "3.121.130.230",
+    "port": 5000,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://13.51.196.44:23679",
+    "protocol": "http",
+    "ip": "13.51.196.44",
+    "port": 23679,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://13.245.171.157:36058",
+    "protocol": "http",
+    "ip": "13.245.171.157",
+    "port": 36058,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
