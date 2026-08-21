@@ -26,9 +26,22 @@
     }
   },
   {
-    "proxy": "http://179.57.172.172:999",
+    "proxy": "http://45.181.121.57:999",
     "protocol": "http",
-    "ip": "179.57.172.172",
+    "ip": "45.181.121.57",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.148.47.254:999",
+    "protocol": "http",
+    "ip": "186.148.47.254",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
