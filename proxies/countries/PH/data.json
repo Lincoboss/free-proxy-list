@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://161.49.100.131:1080",
+    "protocol": "socks4",
+    "ip": "161.49.100.131",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://202.183.37.129:443",
     "protocol": "http",
     "ip": "202.183.37.129",
@@ -52,9 +65,35 @@
     }
   },
   {
-    "proxy": "http://180.191.20.206:8080",
+    "proxy": "http://122.3.207.67:8089",
     "protocol": "http",
-    "ip": "180.191.20.206",
+    "ip": "122.3.207.67",
+    "port": 8089,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://49.145.186.77:8081",
+    "protocol": "http",
+    "ip": "49.145.186.77",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://203.177.237.138:8080",
+    "protocol": "http",
+    "ip": "203.177.237.138",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -65,10 +104,10 @@
     }
   },
   {
-    "proxy": "http://180.191.229.95:8086",
+    "proxy": "http://161.248.191.116:8080",
     "protocol": "http",
-    "ip": "180.191.229.95",
-    "port": 8086,
+    "ip": "161.248.191.116",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,9 +117,9 @@
     }
   },
   {
-    "proxy": "http://202.61.110.162:8082",
+    "proxy": "http://112.198.131.53:8082",
     "protocol": "http",
-    "ip": "202.61.110.162",
+    "ip": "112.198.131.53",
     "port": 8082,
     "https": false,
     "anonymity": "transparent",
@@ -91,74 +130,9 @@
     }
   },
   {
-    "proxy": "http://138.84.64.68:8082",
+    "proxy": "http://58.69.212.156:5050",
     "protocol": "http",
-    "ip": "138.84.64.68",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://126.209.110.120:8087",
-    "protocol": "http",
-    "ip": "126.209.110.120",
-    "port": 8087,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://180.190.84.176:8082",
-    "protocol": "http",
-    "ip": "180.190.84.176",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://154.18.196.6:8083",
-    "protocol": "http",
-    "ip": "154.18.196.6",
-    "port": 8083,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://180.190.84.213:8082",
-    "protocol": "http",
-    "ip": "180.190.84.213",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://112.201.234.211:5050",
-    "protocol": "http",
-    "ip": "112.201.234.211",
+    "ip": "58.69.212.156",
     "port": 5050,
     "https": false,
     "anonymity": "transparent",
@@ -169,10 +143,10 @@
     }
   },
   {
-    "proxy": "http://119.92.70.182:8181",
+    "proxy": "http://124.217.108.148:5050",
     "protocol": "http",
-    "ip": "119.92.70.182",
-    "port": 8181,
+    "ip": "124.217.108.148",
+    "port": 5050,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -182,10 +156,10 @@
     }
   },
   {
-    "proxy": "http://49.151.189.199:8082",
+    "proxy": "http://119.93.178.99:8081",
     "protocol": "http",
-    "ip": "49.151.189.199",
-    "port": 8082,
+    "ip": "119.93.178.99",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
