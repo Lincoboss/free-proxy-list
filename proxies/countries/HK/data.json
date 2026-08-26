@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks5://38.175.197.50:5555",
-    "protocol": "socks5",
-    "ip": "38.175.197.50",
-    "port": 5555,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://150.242.218.137:1080",
     "protocol": "socks5",
     "ip": "150.242.218.137",
@@ -30,19 +17,6 @@
     "protocol": "socks5",
     "ip": "152.32.168.221",
     "port": 10808,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://47.239.140.6:443",
-    "protocol": "socks5",
-    "ip": "47.239.140.6",
-    "port": 443,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -273,48 +247,22 @@
     }
   },
   {
-    "proxy": "http://160.238.65.7:3128",
-    "protocol": "http",
-    "ip": "160.238.65.7",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.238.65.3:3128",
-    "protocol": "http",
-    "ip": "160.238.65.3",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.238.65.8:3128",
-    "protocol": "http",
-    "ip": "160.238.65.8",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://103.211.103.170:3128",
     "protocol": "http",
     "ip": "103.211.103.170",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://154.219.110.27:3128",
+    "protocol": "http",
+    "ip": "154.219.110.27",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",

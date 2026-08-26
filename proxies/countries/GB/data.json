@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks5://145.241.233.71:1080",
+    "protocol": "socks5",
+    "ip": "145.241.233.71",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://134.209.18.113:1088",
     "protocol": "socks5",
     "ip": "134.209.18.113",
@@ -13,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://45.74.31.30:20069",
+    "proxy": "socks5://45.74.31.30:22718",
     "protocol": "socks5",
     "ip": "45.74.31.30",
-    "port": 20069,
+    "port": 22718,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,19 +130,6 @@
     }
   },
   {
-    "proxy": "http://146.177.5.114:8090",
-    "protocol": "http",
-    "ip": "146.177.5.114",
-    "port": 8090,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GB",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://149.102.158.38:443",
     "protocol": "http",
     "ip": "149.102.158.38",
@@ -156,6 +156,19 @@
     }
   },
   {
+    "proxy": "http://37.221.113.146:443",
+    "protocol": "http",
+    "ip": "37.221.113.146",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://35.179.34.132:443",
     "protocol": "http",
     "ip": "35.179.34.132",
@@ -169,9 +182,22 @@
     }
   },
   {
-    "proxy": "http://166.0.9.75:9443",
+    "proxy": "http://166.0.9.100:9443",
     "protocol": "http",
-    "ip": "166.0.9.75",
+    "ip": "166.0.9.100",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://37.221.113.146:9443",
+    "protocol": "http",
+    "ip": "37.221.113.146",
     "port": 9443,
     "https": true,
     "anonymity": "transparent",
