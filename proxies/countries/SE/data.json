@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks5://5.75.133.113:10808",
-    "protocol": "socks5",
-    "ip": "5.75.133.113",
-    "port": 10808,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://171.25.158.95:1080",
     "protocol": "socks5",
     "ip": "171.25.158.95",
@@ -26,22 +13,9 @@
     }
   },
   {
-    "proxy": "socks5://217.144.186.33:2080",
-    "protocol": "socks5",
-    "ip": "217.144.186.33",
-    "port": 2080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://67.205.161.254:9050",
+    "proxy": "socks4://147.189.169.226:9050",
     "protocol": "socks4",
-    "ip": "67.205.161.254",
+    "ip": "147.189.169.226",
     "port": 9050,
     "https": false,
     "anonymity": "transparent",
@@ -78,35 +52,9 @@
     }
   },
   {
-    "proxy": "http://146.70.242.130:9443",
-    "protocol": "http",
-    "ip": "146.70.242.130",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://13.50.130.13:443",
     "protocol": "http",
     "ip": "13.50.130.13",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://185.121.13.55:443",
-    "protocol": "http",
-    "ip": "185.121.13.55",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -122,6 +70,19 @@
     "ip": "217.210.129.243",
     "port": 443,
     "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://212.113.100.114:8089",
+    "protocol": "http",
+    "ip": "212.113.100.114",
+    "port": 8089,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
