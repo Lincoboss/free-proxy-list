@@ -65,6 +65,58 @@
     }
   },
   {
+    "proxy": "https://13.53.139.178:48293",
+    "protocol": "https",
+    "ip": "13.53.139.178",
+    "port": 48293,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Stockholm"
+    }
+  },
+  {
+    "proxy": "https://13.60.181.61:9002",
+    "protocol": "https",
+    "ip": "13.60.181.61",
+    "port": 9002,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Stockholm"
+    }
+  },
+  {
+    "proxy": "https://13.60.181.61:8939",
+    "protocol": "https",
+    "ip": "13.60.181.61",
+    "port": 8939,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Stockholm"
+    }
+  },
+  {
+    "proxy": "https://13.53.139.178:8241",
+    "protocol": "https",
+    "ip": "13.53.139.178",
+    "port": 8241,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Stockholm"
+    }
+  },
+  {
     "proxy": "http://185.146.173.20:80",
     "protocol": "http",
     "ip": "185.146.173.20",
@@ -75,45 +127,6 @@
     "geolocation": {
       "country": "SE",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://176.126.70.111:16379",
-    "protocol": "socks5",
-    "ip": "176.126.70.111",
-    "port": 16379,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Stockholm"
-    }
-  },
-  {
-    "proxy": "http://194.14.207.87:8001",
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 8001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Falun"
-    }
-  },
-  {
-    "proxy": "http://194.14.207.87:80",
-    "protocol": "http",
-    "ip": "194.14.207.87",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Falun"
     }
   },
   {
@@ -130,19 +143,6 @@
     }
   },
   {
-    "proxy": "http://84.8.248.36:3128",
-    "protocol": "http",
-    "ip": "84.8.248.36",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://80.78.25.87:9050",
     "protocol": "socks5",
     "ip": "80.78.25.87",
@@ -153,6 +153,32 @@
     "geolocation": {
       "country": "SE",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://194.14.207.87:8001",
+    "protocol": "http",
+    "ip": "194.14.207.87",
+    "port": 8001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Falun"
+    }
+  },
+  {
+    "proxy": "socks5://176.126.70.111:16379",
+    "protocol": "socks5",
+    "ip": "176.126.70.111",
+    "port": 16379,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Stockholm"
     }
   },
   {
@@ -182,48 +208,9 @@
     }
   },
   {
-    "proxy": "http://85.8.47.210:7080",
-    "protocol": "http",
-    "ip": "85.8.47.210",
-    "port": 7080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://85.8.47.212:7080",
-    "protocol": "http",
-    "ip": "85.8.47.212",
-    "port": 7080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://85.8.47.207:7080",
     "protocol": "http",
     "ip": "85.8.47.207",
-    "port": 7080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://85.8.47.208:7080",
-    "protocol": "http",
-    "ip": "85.8.47.208",
     "port": 7080,
     "https": false,
     "anonymity": "transparent",
@@ -247,6 +234,45 @@
     }
   },
   {
+    "proxy": "http://85.8.47.209:7080",
+    "protocol": "http",
+    "ip": "85.8.47.209",
+    "port": 7080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://85.8.47.210:7080",
+    "protocol": "http",
+    "ip": "85.8.47.210",
+    "port": 7080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://85.228.42.180:4153",
+    "protocol": "http",
+    "ip": "85.228.42.180",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Upplands Vasby"
+    }
+  },
+  {
     "proxy": "http://172.232.139.214:32768",
     "protocol": "http",
     "ip": "172.232.139.214",
@@ -257,19 +283,6 @@
     "geolocation": {
       "country": "SE",
       "city": "Stockholm"
-    }
-  },
-  {
-    "proxy": "http://159.194.228.40:8888",
-    "protocol": "http",
-    "ip": "159.194.228.40",
-    "port": 8888,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
     }
   },
   {
