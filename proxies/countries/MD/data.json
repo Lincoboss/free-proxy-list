@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks5://109.107.166.207:30385",
-    "protocol": "socks5",
-    "ip": "109.107.166.207",
-    "port": 30385,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MD",
-      "city": "Soroca"
-    }
-  },
-  {
     "proxy": "socks5://5.181.158.54:1080",
     "protocol": "socks5",
     "ip": "5.181.158.54",
@@ -23,6 +10,32 @@
     "geolocation": {
       "country": "MD",
       "city": "Chisinau"
+    }
+  },
+  {
+    "proxy": "socks4://46.55.3.113:4145",
+    "protocol": "socks4",
+    "ip": "46.55.3.113",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MD",
+      "city": "Chisinau"
+    }
+  },
+  {
+    "proxy": "socks5://109.107.166.207:30385",
+    "protocol": "socks5",
+    "ip": "109.107.166.207",
+    "port": 30385,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MD",
+      "city": "Soroca"
     }
   },
   {
@@ -52,16 +65,16 @@
     }
   },
   {
-    "proxy": "http://5.181.158.54:1081",
+    "proxy": "http://94.103.15.92:1081",
     "protocol": "http",
-    "ip": "5.181.158.54",
+    "ip": "94.103.15.92",
     "port": 1081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MD",
-      "city": "Chisinau"
+      "city": "Tighina"
     }
   }
 ]

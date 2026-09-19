@@ -1,7 +1,7 @@
 [
   {
-    "proxy": "socks5://80.249.81.179:9050",
-    "protocol": "socks5",
+    "proxy": "socks4://80.249.81.179:9050",
+    "protocol": "socks4",
     "ip": "80.249.81.179",
     "port": 9050,
     "https": false,
@@ -13,16 +13,16 @@
     }
   },
   {
-    "proxy": "http://93.125.3.22:8080",
-    "protocol": "http",
-    "ip": "93.125.3.22",
-    "port": 8080,
+    "proxy": "socks5://80.249.81.179:9050",
+    "protocol": "socks5",
+    "ip": "80.249.81.179",
+    "port": 9050,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BY",
-      "city": "Minsk"
+      "city": "Unknown"
     }
   }
 ]
