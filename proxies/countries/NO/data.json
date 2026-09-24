@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "https://82.102.22.178:9443",
+    "protocol": "https",
+    "ip": "82.102.22.178",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Oslo"
+    }
+  },
+  {
     "proxy": "socks5://84.52.227.36:9050",
     "protocol": "socks5",
     "ip": "84.52.227.36",
@@ -23,32 +36,6 @@
     "geolocation": {
       "country": "NO",
       "city": "Stjordal"
-    }
-  },
-  {
-    "proxy": "http://45.135.139.81:6384",
-    "protocol": "http",
-    "ip": "45.135.139.81",
-    "port": 6384,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NO",
-      "city": "Oslo"
-    }
-  },
-  {
-    "proxy": "http://45.135.139.190:6493",
-    "protocol": "http",
-    "ip": "45.135.139.190",
-    "port": 6493,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NO",
-      "city": "Oslo"
     }
   },
   {
@@ -65,10 +52,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.181:6484",
+    "proxy": "http://45.135.139.155:6458",
     "protocol": "http",
-    "ip": "45.135.139.181",
-    "port": 6484,
+    "ip": "45.135.139.155",
+    "port": 6458,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,10 +65,36 @@
     }
   },
   {
-    "proxy": "http://45.135.139.9:6312",
+    "proxy": "http://45.135.139.25:6328",
     "protocol": "http",
-    "ip": "45.135.139.9",
-    "port": 6312,
+    "ip": "45.135.139.25",
+    "port": 6328,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Oslo"
+    }
+  },
+  {
+    "proxy": "http://45.135.139.42:6345",
+    "protocol": "http",
+    "ip": "45.135.139.42",
+    "port": 6345,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Oslo"
+    }
+  },
+  {
+    "proxy": "http://45.135.139.195:6498",
+    "protocol": "http",
+    "ip": "45.135.139.195",
+    "port": 6498,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

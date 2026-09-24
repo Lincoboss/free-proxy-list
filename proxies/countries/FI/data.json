@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://65.21.252.66:10812",
+    "proxy": "socks5://65.21.252.66:10813",
     "protocol": "socks5",
     "ip": "65.21.252.66",
-    "port": 10812,
+    "port": 10813,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://65.21.252.66:10802",
+    "proxy": "socks5://65.21.252.66:10814",
     "protocol": "socks5",
     "ip": "65.21.252.66",
-    "port": 10802,
+    "port": 10814,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://65.21.252.66:10807",
+    "proxy": "socks5://65.21.252.66:10803",
     "protocol": "socks5",
     "ip": "65.21.252.66",
-    "port": 10807,
+    "port": 10803,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,37 +117,11 @@
     }
   },
   {
-    "proxy": "https://45.142.141.5:8443",
-    "protocol": "https",
-    "ip": "45.142.141.5",
-    "port": 8443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://65.109.179.56:8080",
     "protocol": "https",
     "ip": "65.109.179.56",
     "port": 8080,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "http://185.17.2.127:3128",
-    "protocol": "http",
-    "ip": "185.17.2.127",
-    "port": 3128,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -182,10 +156,10 @@
     }
   },
   {
-    "proxy": "socks5://65.21.252.66:10813",
+    "proxy": "socks5://65.21.252.66:10807",
     "protocol": "socks5",
     "ip": "65.21.252.66",
-    "port": 10813,
+    "port": 10807,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -195,9 +169,9 @@
     }
   },
   {
-    "proxy": "socks5://65.21.212.113:9050",
-    "protocol": "socks5",
-    "ip": "65.21.212.113",
+    "proxy": "socks4://37.27.112.71:9050",
+    "protocol": "socks4",
+    "ip": "37.27.112.71",
     "port": 9050,
     "https": false,
     "anonymity": "transparent",
@@ -208,10 +182,10 @@
     }
   },
   {
-    "proxy": "socks4://91.186.214.229:2080",
-    "protocol": "socks4",
-    "ip": "91.186.214.229",
-    "port": 2080,
+    "proxy": "socks5://65.21.252.66:10808",
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -234,19 +208,6 @@
     }
   },
   {
-    "proxy": "http://65.109.65.239:18080",
-    "protocol": "http",
-    "ip": "65.109.65.239",
-    "port": 18080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
     "proxy": "socks5://65.21.252.66:10806",
     "protocol": "socks5",
     "ip": "65.21.252.66",
@@ -260,10 +221,10 @@
     }
   },
   {
-    "proxy": "socks5://65.21.252.66:10801",
+    "proxy": "socks5://65.21.252.66:10802",
     "protocol": "socks5",
     "ip": "65.21.252.66",
-    "port": 10801,
+    "port": 10802,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -286,6 +247,45 @@
     }
   },
   {
+    "proxy": "socks5://65.21.252.66:10812",
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10812,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Helsinki"
+    }
+  },
+  {
+    "proxy": "socks5://65.21.212.113:9050",
+    "protocol": "socks5",
+    "ip": "65.21.212.113",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Helsinki"
+    }
+  },
+  {
+    "proxy": "socks5://65.21.252.66:10801",
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10801,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Helsinki"
+    }
+  },
+  {
     "proxy": "socks5://95.217.167.252:11117",
     "protocol": "socks5",
     "ip": "95.217.167.252",
@@ -299,49 +299,10 @@
     }
   },
   {
-    "proxy": "socks5://65.21.252.66:10814",
-    "protocol": "socks5",
-    "ip": "65.21.252.66",
-    "port": 10814,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
     "proxy": "socks5://65.21.252.66:10809",
     "protocol": "socks5",
     "ip": "65.21.252.66",
     "port": 10809,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "socks5://65.21.252.66:10803",
-    "protocol": "socks5",
-    "ip": "65.21.252.66",
-    "port": 10803,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "socks5://65.21.252.66:10808",
-    "protocol": "socks5",
-    "ip": "65.21.252.66",
-    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -507,97 +468,6 @@
     }
   },
   {
-    "proxy": "http://95.216.116.166:4545",
-    "protocol": "http",
-    "ip": "95.216.116.166",
-    "port": 4545,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "http://65.109.65.239:28080",
-    "protocol": "http",
-    "ip": "65.109.65.239",
-    "port": 28080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "http://65.109.65.238:28080",
-    "protocol": "http",
-    "ip": "65.109.65.238",
-    "port": 28080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "http://65.109.87.121:18080",
-    "protocol": "http",
-    "ip": "65.109.87.121",
-    "port": 18080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "http://65.109.231.48:8080",
-    "protocol": "http",
-    "ip": "65.109.231.48",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "http://65.108.159.129:8081",
-    "protocol": "http",
-    "ip": "65.108.159.129",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
-    "proxy": "http://194.53.54.201:8090",
-    "protocol": "http",
-    "ip": "194.53.54.201",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Helsinki"
-    }
-  },
-  {
     "proxy": "http://65.108.203.35:28080",
     "protocol": "http",
     "ip": "65.108.203.35",
@@ -611,10 +481,36 @@
     }
   },
   {
-    "proxy": "http://65.108.203.37:18080",
+    "proxy": "http://34.88.38.81:9443",
     "protocol": "http",
-    "ip": "65.108.203.37",
-    "port": 18080,
+    "ip": "34.88.38.81",
+    "port": 9443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Lappeenranta"
+    }
+  },
+  {
+    "proxy": "http://35.228.49.168:9443",
+    "protocol": "http",
+    "ip": "35.228.49.168",
+    "port": 9443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Lappeenranta"
+    }
+  },
+  {
+    "proxy": "http://37.27.112.71:9050",
+    "protocol": "http",
+    "ip": "37.27.112.71",
+    "port": 9050,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -624,10 +520,23 @@
     }
   },
   {
-    "proxy": "http://135.181.79.187:40001",
+    "proxy": "http://65.21.194.253:9050",
     "protocol": "http",
-    "ip": "135.181.79.187",
-    "port": 40001,
+    "ip": "65.21.194.253",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Helsinki"
+    }
+  },
+  {
+    "proxy": "http://45.91.55.95:443",
+    "protocol": "http",
+    "ip": "45.91.55.95",
+    "port": 443,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -650,16 +559,29 @@
     }
   },
   {
-    "proxy": "http://65.108.203.36:18080",
+    "proxy": "http://65.21.252.66:10808",
     "protocol": "http",
-    "ip": "65.108.203.36",
-    "port": 18080,
+    "ip": "65.21.252.66",
+    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "FI",
       "city": "Helsinki"
+    }
+  },
+  {
+    "proxy": "http://185.121.133.251:1080",
+    "protocol": "http",
+    "ip": "185.121.133.251",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Unknown"
     }
   },
   {
@@ -676,9 +598,35 @@
     }
   },
   {
-    "proxy": "http://65.109.230.25:8080",
+    "proxy": "http://65.21.212.113:9050",
     "protocol": "http",
-    "ip": "65.109.230.25",
+    "ip": "65.21.212.113",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Helsinki"
+    }
+  },
+  {
+    "proxy": "http://135.181.79.187:40001",
+    "protocol": "http",
+    "ip": "135.181.79.187",
+    "port": 40001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Helsinki"
+    }
+  },
+  {
+    "proxy": "http://65.109.231.48:8080",
+    "protocol": "http",
+    "ip": "65.109.231.48",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -693,6 +641,19 @@
     "protocol": "http",
     "ip": "65.109.87.121",
     "port": 28080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Helsinki"
+    }
+  },
+  {
+    "proxy": "http://65.109.230.25:8080",
+    "protocol": "http",
+    "ip": "65.109.230.25",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
