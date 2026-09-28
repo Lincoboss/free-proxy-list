@@ -13,6 +13,32 @@
     }
   },
   {
+    "proxy": "http://149.86.144.211:8080",
+    "protocol": "http",
+    "ip": "149.86.144.211",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Konya"
+    }
+  },
+  {
+    "proxy": "http://194.124.36.16:8080",
+    "protocol": "http",
+    "ip": "194.124.36.16",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Antalya"
+    }
+  },
+  {
     "proxy": "socks4://176.88.166.215:1080",
     "protocol": "socks4",
     "ip": "176.88.166.215",
@@ -26,8 +52,21 @@
     }
   },
   {
-    "proxy": "socks5://216.9.224.173:1080",
-    "protocol": "socks5",
+    "proxy": "http://94.78.67.171:80",
+    "protocol": "http",
+    "ip": "94.78.67.171",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://216.9.224.173:1080",
+    "protocol": "socks4",
     "ip": "216.9.224.173",
     "port": 1080,
     "https": false,
@@ -39,35 +78,9 @@
     }
   },
   {
-    "proxy": "http://46.197.136.14:8080",
+    "proxy": "http://95.3.69.222:8080",
     "protocol": "http",
-    "ip": "46.197.136.14",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Bornova"
-    }
-  },
-  {
-    "proxy": "http://188.132.221.186:8080",
-    "protocol": "http",
-    "ip": "188.132.221.186",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Antakya"
-    }
-  },
-  {
-    "proxy": "http://195.142.16.13:8080",
-    "protocol": "http",
-    "ip": "195.142.16.13",
+    "ip": "95.3.69.222",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -78,42 +91,29 @@
     }
   },
   {
-    "proxy": "socks4://176.236.14.2:4153",
-    "protocol": "socks4",
-    "ip": "176.236.14.2",
-    "port": 4153,
+    "proxy": "http://130.185.123.29:3128",
+    "protocol": "http",
+    "ip": "130.185.123.29",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TR",
-      "city": "Unknown"
+      "city": "Istanbul"
     }
   },
   {
-    "proxy": "http://149.86.151.202:8085",
-    "protocol": "http",
-    "ip": "149.86.151.202",
-    "port": 8085,
+    "proxy": "socks5://216.9.224.173:1080",
+    "protocol": "socks5",
+    "ip": "216.9.224.173",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TR",
-      "city": "Konya"
-    }
-  },
-  {
-    "proxy": "http://188.132.150.44:8080",
-    "protocol": "http",
-    "ip": "188.132.150.44",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Unknown"
+      "city": "Istanbul"
     }
   },
   {
@@ -897,35 +897,22 @@
     }
   },
   {
-    "proxy": "http://94.78.67.171:80",
+    "proxy": "http://31.223.16.134:8888",
     "protocol": "http",
-    "ip": "94.78.67.171",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://154.53.161.191:8888",
-    "protocol": "http",
-    "ip": "154.53.161.191",
+    "ip": "31.223.16.134",
     "port": 8888,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TR",
-      "city": "Istanbul"
+      "city": "Ankara"
     }
   },
   {
-    "proxy": "http://195.62.50.141:8080",
+    "proxy": "http://185.135.99.14:8080",
     "protocol": "http",
-    "ip": "195.62.50.141",
+    "ip": "185.135.99.14",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -936,9 +923,9 @@
     }
   },
   {
-    "proxy": "http://95.3.69.222:8080",
+    "proxy": "http://188.132.222.30:8080",
     "protocol": "http",
-    "ip": "95.3.69.222",
+    "ip": "188.132.222.30",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -962,10 +949,23 @@
     }
   },
   {
-    "proxy": "http://188.132.150.52:8080",
+    "proxy": "http://85.105.160.32:9090",
     "protocol": "http",
-    "ip": "188.132.150.52",
-    "port": 8080,
+    "ip": "85.105.160.32",
+    "port": 9090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Kartal"
+    }
+  },
+  {
+    "proxy": "http://31.145.149.75:9090",
+    "protocol": "http",
+    "ip": "31.145.149.75",
+    "port": 9090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -975,75 +975,10 @@
     }
   },
   {
-    "proxy": "http://176.88.166.190:5678",
+    "proxy": "http://154.53.161.191:8888",
     "protocol": "http",
-    "ip": "176.88.166.190",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Adıyaman"
-    }
-  },
-  {
-    "proxy": "http://185.73.202.85:80",
-    "protocol": "http",
-    "ip": "185.73.202.85",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://195.62.50.25:8080",
-    "protocol": "http",
-    "ip": "195.62.50.25",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://176.236.14.2:4153",
-    "protocol": "http",
-    "ip": "176.236.14.2",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://176.236.124.252:10001",
-    "protocol": "http",
-    "ip": "176.236.124.252",
-    "port": 10001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Magnesia ad Sipylum"
-    }
-  },
-  {
-    "proxy": "http://91.228.186.241:8118",
-    "protocol": "http",
-    "ip": "91.228.186.241",
-    "port": 8118,
+    "ip": "154.53.161.191",
+    "port": 8888,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1053,36 +988,10 @@
     }
   },
   {
-    "proxy": "http://95.0.84.26:80",
+    "proxy": "http://195.142.250.46:8080",
     "protocol": "http",
-    "ip": "95.0.84.26",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Gebze"
-    }
-  },
-  {
-    "proxy": "http://78.188.81.57:8080",
-    "protocol": "http",
-    "ip": "78.188.81.57",
+    "ip": "195.142.250.46",
     "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Istanbul"
-    }
-  },
-  {
-    "proxy": "http://85.117.239.113:3128",
-    "protocol": "http",
-    "ip": "85.117.239.113",
-    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1092,16 +1001,55 @@
     }
   },
   {
-    "proxy": "http://78.189.32.215:8080",
+    "proxy": "http://78.189.153.164:3310",
     "protocol": "http",
-    "ip": "78.189.32.215",
+    "ip": "78.189.153.164",
+    "port": 3310,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Skutari"
+    }
+  },
+  {
+    "proxy": "http://85.104.3.232:3310",
+    "protocol": "http",
+    "ip": "85.104.3.232",
+    "port": 3310,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Istanbul"
+    }
+  },
+  {
+    "proxy": "http://194.124.36.18:8080",
+    "protocol": "http",
+    "ip": "194.124.36.18",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TR",
-      "city": "Köseköy"
+      "city": "Antalya"
+    }
+  },
+  {
+    "proxy": "http://88.255.65.119:8080",
+    "protocol": "http",
+    "ip": "88.255.65.119",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Istanbul"
     }
   },
   {
@@ -1118,16 +1066,120 @@
     }
   },
   {
-    "proxy": "http://81.161.236.152:8080",
+    "proxy": "http://188.132.222.142:8080",
     "protocol": "http",
-    "ip": "81.161.236.152",
+    "ip": "188.132.222.142",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TR",
-      "city": "Istanbul"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://185.200.38.142:8080",
+    "protocol": "http",
+    "ip": "185.200.38.142",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://194.124.37.20:8080",
+    "protocol": "http",
+    "ip": "194.124.37.20",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Antalya"
+    }
+  },
+  {
+    "proxy": "http://176.236.124.252:10001",
+    "protocol": "http",
+    "ip": "176.236.124.252",
+    "port": 10001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Magnesia ad Sipylum"
+    }
+  },
+  {
+    "proxy": "http://95.0.84.26:80",
+    "protocol": "http",
+    "ip": "95.0.84.26",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Gebze"
+    }
+  },
+  {
+    "proxy": "http://176.236.14.2:4153",
+    "protocol": "http",
+    "ip": "176.236.14.2",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://185.73.202.85:80",
+    "protocol": "http",
+    "ip": "185.73.202.85",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://95.183.140.94:80",
+    "protocol": "http",
+    "ip": "95.183.140.94",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Bayburt"
+    }
+  },
+  {
+    "proxy": "http://85.117.239.113:3128",
+    "protocol": "http",
+    "ip": "85.117.239.113",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
     }
   },
   {
@@ -1144,9 +1196,9 @@
     }
   },
   {
-    "proxy": "http://88.255.65.119:8080",
+    "proxy": "http://78.188.81.57:8080",
     "protocol": "http",
-    "ip": "88.255.65.119",
+    "ip": "78.188.81.57",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -1170,75 +1222,10 @@
     }
   },
   {
-    "proxy": "http://194.124.37.20:8080",
+    "proxy": "http://88.245.138.87:1080",
     "protocol": "http",
-    "ip": "194.124.37.20",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Antalya"
-    }
-  },
-  {
-    "proxy": "http://194.124.36.22:8080",
-    "protocol": "http",
-    "ip": "194.124.36.22",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Antalya"
-    }
-  },
-  {
-    "proxy": "http://95.183.140.94:80",
-    "protocol": "http",
-    "ip": "95.183.140.94",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Bayburt"
-    }
-  },
-  {
-    "proxy": "http://185.200.38.142:8080",
-    "protocol": "http",
-    "ip": "185.200.38.142",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://188.132.222.142:8080",
-    "protocol": "http",
-    "ip": "188.132.222.142",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://195.87.182.10:9090",
-    "protocol": "http",
-    "ip": "195.87.182.10",
-    "port": 9090,
+    "ip": "88.245.138.87",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1248,22 +1235,74 @@
     }
   },
   {
-    "proxy": "http://149.86.140.210:8080",
+    "proxy": "http://88.247.31.164:4153",
     "protocol": "http",
-    "ip": "149.86.140.210",
+    "ip": "88.247.31.164",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Cankaya"
+    }
+  },
+  {
+    "proxy": "http://81.161.236.152:8080",
+    "protocol": "http",
+    "ip": "81.161.236.152",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TR",
-      "city": "Konya"
+      "city": "Istanbul"
     }
   },
   {
-    "proxy": "http://212.175.50.76:8085",
+    "proxy": "http://78.189.32.215:8080",
     "protocol": "http",
-    "ip": "212.175.50.76",
+    "ip": "78.189.32.215",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Köseköy"
+    }
+  },
+  {
+    "proxy": "http://188.132.150.48:8080",
+    "protocol": "http",
+    "ip": "188.132.150.48",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://188.132.221.186:8080",
+    "protocol": "http",
+    "ip": "188.132.221.186",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Antakya"
+    }
+  },
+  {
+    "proxy": "http://212.175.50.80:8085",
+    "protocol": "http",
+    "ip": "212.175.50.80",
     "port": 8085,
     "https": false,
     "anonymity": "transparent",
@@ -1274,16 +1313,81 @@
     }
   },
   {
-    "proxy": "http://212.174.242.114:8080",
+    "proxy": "http://149.86.151.182:8080",
     "protocol": "http",
-    "ip": "212.174.242.114",
+    "ip": "149.86.151.182",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TR",
-      "city": "Buca"
+      "city": "Konya"
+    }
+  },
+  {
+    "proxy": "http://195.62.50.22:8080",
+    "protocol": "http",
+    "ip": "195.62.50.22",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://212.175.50.78:8085",
+    "protocol": "http",
+    "ip": "212.175.50.78",
+    "port": 8085,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Istanbul"
+    }
+  },
+  {
+    "proxy": "http://195.62.50.6:8080",
+    "protocol": "http",
+    "ip": "195.62.50.6",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://188.132.150.36:8080",
+    "protocol": "http",
+    "ip": "188.132.150.36",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://176.88.166.201:8080",
+    "protocol": "http",
+    "ip": "176.88.166.201",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Kilis"
     }
   },
   {
@@ -1300,16 +1404,42 @@
     }
   },
   {
-    "proxy": "http://85.105.160.32:9090",
+    "proxy": "http://195.62.50.30:8080",
     "protocol": "http",
-    "ip": "85.105.160.32",
-    "port": 9090,
+    "ip": "195.62.50.30",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TR",
-      "city": "Kartal"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://185.248.15.159:8080",
+    "protocol": "http",
+    "ip": "185.248.15.159",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://212.252.73.18:8080",
+    "protocol": "http",
+    "ip": "212.252.73.18",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Unknown"
     }
   }
 ]
