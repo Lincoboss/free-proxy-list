@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "socks4://93.93.61.153:1080",
+    "protocol": "socks4",
+    "ip": "93.93.61.153",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Vilnius"
+    }
+  },
+  {
     "proxy": "https://93.115.26.111:443",
     "protocol": "https",
     "ip": "93.115.26.111",
@@ -23,6 +36,32 @@
     "geolocation": {
       "country": "LT",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://195.182.74.91:42443",
+    "protocol": "https",
+    "ip": "195.182.74.91",
+    "port": 42443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Trakai"
+    }
+  },
+  {
+    "proxy": "https://195.182.74.92:42443",
+    "protocol": "https",
+    "ip": "195.182.74.92",
+    "port": 42443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Trakai"
     }
   },
   {
@@ -39,8 +78,8 @@
     }
   },
   {
-    "proxy": "socks4://185.193.25.206:9050",
-    "protocol": "socks4",
+    "proxy": "socks5://185.193.25.206:9050",
+    "protocol": "socks5",
     "ip": "185.193.25.206",
     "port": 9050,
     "https": false,
@@ -56,19 +95,6 @@
     "protocol": "socks5",
     "ip": "213.252.230.102",
     "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://185.193.25.206:9050",
-    "protocol": "socks5",
-    "ip": "185.193.25.206",
-    "port": 9050,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -114,32 +140,6 @@
     "geolocation": {
       "country": "LT",
       "city": "Klaipėda"
-    }
-  },
-  {
-    "proxy": "http://78.63.115.20:8899",
-    "protocol": "http",
-    "ip": "78.63.115.20",
-    "port": 8899,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Vilnius"
-    }
-  },
-  {
-    "proxy": "http://213.252.230.102:1080",
-    "protocol": "http",
-    "ip": "213.252.230.102",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Unknown"
     }
   }
 ]
