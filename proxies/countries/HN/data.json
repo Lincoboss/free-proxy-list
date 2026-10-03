@@ -13,16 +13,29 @@
     }
   },
   {
-    "proxy": "socks4://181.115.75.102:5678",
-    "protocol": "socks4",
-    "ip": "181.115.75.102",
-    "port": 5678,
+    "proxy": "http://164.163.73.141:999",
+    "protocol": "http",
+    "ip": "164.163.73.141",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HN",
-      "city": "San Pedro Sula"
+      "city": "Santa Rosa de Copán"
+    }
+  },
+  {
+    "proxy": "http://164.163.73.5:999",
+    "protocol": "http",
+    "ip": "164.163.73.5",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "Santa Rosa de Copán"
     }
   },
   {
@@ -52,45 +65,6 @@
     }
   },
   {
-    "proxy": "http://181.115.67.3:999",
-    "protocol": "http",
-    "ip": "181.115.67.3",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://181.115.75.102:5678",
-    "protocol": "http",
-    "ip": "181.115.75.102",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "San Pedro Sula"
-    }
-  },
-  {
-    "proxy": "http://200.52.148.10:999",
-    "protocol": "http",
-    "ip": "200.52.148.10",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "Tegucigalpa"
-    }
-  },
-  {
     "proxy": "http://190.124.166.227:999",
     "protocol": "http",
     "ip": "190.124.166.227",
@@ -117,29 +91,16 @@
     }
   },
   {
-    "proxy": "http://164.163.73.5:999",
+    "proxy": "http://200.52.148.10:999",
     "protocol": "http",
-    "ip": "164.163.73.5",
+    "ip": "200.52.148.10",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HN",
-      "city": "Santa Rosa de Copán"
-    }
-  },
-  {
-    "proxy": "http://38.7.24.17:8080",
-    "protocol": "http",
-    "ip": "38.7.24.17",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "San Pedro Sula"
+      "city": "Tegucigalpa"
     }
   }
 ]

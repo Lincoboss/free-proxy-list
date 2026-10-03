@@ -13,6 +13,58 @@
     }
   },
   {
+    "proxy": "https://195.85.197.44:443",
+    "protocol": "https",
+    "ip": "195.85.197.44",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Ashquelon"
+    }
+  },
+  {
+    "proxy": "https://195.85.197.44:1443",
+    "protocol": "https",
+    "ip": "195.85.197.44",
+    "port": 1443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Ashquelon"
+    }
+  },
+  {
+    "proxy": "https://34.165.5.226:443",
+    "protocol": "https",
+    "ip": "34.165.5.226",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Tel Aviv"
+    }
+  },
+  {
+    "proxy": "http://147.236.181.86:50009",
+    "protocol": "http",
+    "ip": "147.236.181.86",
+    "port": 50009,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "'Ezer"
+    }
+  },
+  {
     "proxy": "socks5://34.165.243.21:40001",
     "protocol": "socks5",
     "ip": "34.165.243.21",
@@ -91,16 +143,16 @@
     }
   },
   {
-    "proxy": "http://138.124.117.43:3131",
+    "proxy": "http://34.165.5.226:443",
     "protocol": "http",
-    "ip": "138.124.117.43",
-    "port": 3131,
+    "ip": "34.165.5.226",
+    "port": 443,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IL",
-      "city": "Jerusalem"
+      "city": "Tel Aviv"
     }
   },
   {
