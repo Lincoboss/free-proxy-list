@@ -1,96 +1,5 @@
 [
   {
-    "proxy": "socks5://192.111.129.145:16894",
-    "protocol": "socks5",
-    "ip": "192.111.129.145",
-    "port": 16894,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "socks5://185.196.61.251:1080",
-    "protocol": "socks5",
-    "ip": "185.196.61.251",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks5://68.233.127.229:1080",
-    "protocol": "socks5",
-    "ip": "68.233.127.229",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Montreal"
-    }
-  },
-  {
-    "proxy": "socks5://144.217.107.25:1080",
-    "protocol": "socks5",
-    "ip": "144.217.107.25",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Beauharnois"
-    }
-  },
-  {
-    "proxy": "socks4://192.111.139.165:4145",
-    "protocol": "socks4",
-    "ip": "192.111.139.165",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "socks4://192.111.137.35:4145",
-    "protocol": "socks4",
-    "ip": "192.111.137.35",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "socks4://68.71.252.38:4145",
-    "protocol": "socks4",
-    "ip": "68.71.252.38",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
     "proxy": "https://129.97.50.72:443",
     "protocol": "https",
     "ip": "129.97.50.72",
@@ -208,23 +117,10 @@
     }
   },
   {
-    "proxy": "https://132.208.244.66:443",
+    "proxy": "https://69.161.223.49:8447",
     "protocol": "https",
-    "ip": "132.208.244.66",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "https://69.161.223.66:8443",
-    "protocol": "https",
-    "ip": "69.161.223.66",
-    "port": 8443,
+    "ip": "69.161.223.49",
+    "port": 8447,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -234,9 +130,22 @@
     }
   },
   {
-    "proxy": "https://69.161.222.244:8447",
+    "proxy": "https://69.161.223.111:8447",
     "protocol": "https",
-    "ip": "69.161.222.244",
+    "ip": "69.161.223.111",
+    "port": 8447,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Hastings"
+    }
+  },
+  {
+    "proxy": "https://69.161.223.39:8447",
+    "protocol": "https",
+    "ip": "69.161.223.39",
     "port": 8447,
     "https": true,
     "anonymity": "transparent",
@@ -260,9 +169,9 @@
     }
   },
   {
-    "proxy": "https://69.161.222.164:8447",
+    "proxy": "https://69.161.222.132:8447",
     "protocol": "https",
-    "ip": "69.161.222.164",
+    "ip": "69.161.222.132",
     "port": 8447,
     "https": true,
     "anonymity": "transparent",
@@ -273,22 +182,48 @@
     }
   },
   {
-    "proxy": "https://208.72.4.50:443",
+    "proxy": "https://69.161.223.235:8443",
     "protocol": "https",
-    "ip": "208.72.4.50",
-    "port": 443,
+    "ip": "69.161.223.235",
+    "port": 8443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CA",
-      "city": "Unknown"
+      "city": "Hastings"
     }
   },
   {
-    "proxy": "https://69.161.222.4:8447",
+    "proxy": "https://69.161.222.159:8443",
     "protocol": "https",
-    "ip": "69.161.222.4",
+    "ip": "69.161.222.159",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Hastings"
+    }
+  },
+  {
+    "proxy": "https://69.161.223.160:8443",
+    "protocol": "https",
+    "ip": "69.161.223.160",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Hastings"
+    }
+  },
+  {
+    "proxy": "https://69.161.223.227:8447",
+    "protocol": "https",
+    "ip": "69.161.223.227",
     "port": 8447,
     "https": true,
     "anonymity": "transparent",
@@ -299,9 +234,9 @@
     }
   },
   {
-    "proxy": "https://69.161.223.135:8447",
+    "proxy": "https://69.161.222.229:8447",
     "protocol": "https",
-    "ip": "69.161.223.135",
+    "ip": "69.161.222.229",
     "port": 8447,
     "https": true,
     "anonymity": "transparent",
@@ -312,9 +247,35 @@
     }
   },
   {
-    "proxy": "https://69.161.223.27:8447",
+    "proxy": "https://69.161.222.128:8443",
     "protocol": "https",
-    "ip": "69.161.223.27",
+    "ip": "69.161.222.128",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Hastings"
+    }
+  },
+  {
+    "proxy": "https://69.161.223.38:8443",
+    "protocol": "https",
+    "ip": "69.161.223.38",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Hastings"
+    }
+  },
+  {
+    "proxy": "https://69.161.222.117:8447",
+    "protocol": "https",
+    "ip": "69.161.222.117",
     "port": 8447,
     "https": true,
     "anonymity": "transparent",
@@ -322,6 +283,19 @@
     "geolocation": {
       "country": "CA",
       "city": "Hastings"
+    }
+  },
+  {
+    "proxy": "socks4://192.111.137.35:4145",
+    "protocol": "socks4",
+    "ip": "192.111.137.35",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
     }
   },
   {
@@ -611,6 +585,19 @@
     }
   },
   {
+    "proxy": "socks4://192.111.139.165:4145",
+    "protocol": "socks4",
+    "ip": "192.111.139.165",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
     "proxy": "socks4://192.111.130.2:4145",
     "protocol": "socks4",
     "ip": "192.111.130.2",
@@ -676,6 +663,19 @@
     }
   },
   {
+    "proxy": "socks4://68.71.252.38:4145",
+    "protocol": "socks4",
+    "ip": "68.71.252.38",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
     "proxy": "http://23.227.39.186:80",
     "protocol": "http",
     "ip": "23.227.39.186",
@@ -715,10 +715,205 @@
     }
   },
   {
+    "proxy": "socks5://192.111.129.145:16894",
+    "protocol": "socks5",
+    "ip": "192.111.129.145",
+    "port": 16894,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "socks5://192.111.137.37:18762",
+    "protocol": "socks5",
+    "ip": "192.111.137.37",
+    "port": 18762,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "socks4://24.37.245.42:51056",
+    "protocol": "socks4",
+    "ip": "24.37.245.42",
+    "port": 51056,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Montreal"
+    }
+  },
+  {
+    "proxy": "socks5://198.8.94.174:39078",
+    "protocol": "socks5",
+    "ip": "198.8.94.174",
+    "port": 39078,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://192.111.137.34:18765",
+    "protocol": "socks5",
+    "ip": "192.111.137.34",
+    "port": 18765,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "socks5://138.197.148.194:9050",
+    "protocol": "socks5",
+    "ip": "138.197.148.194",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://192.111.139.163:19404",
+    "protocol": "socks5",
+    "ip": "192.111.139.163",
+    "port": 19404,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "socks4://138.197.148.194:9050",
+    "protocol": "socks4",
+    "ip": "138.197.148.194",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://192.111.130.2:4145",
+    "protocol": "socks5",
+    "ip": "192.111.130.2",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "socks5://192.111.129.150:4145",
+    "protocol": "socks5",
+    "ip": "192.111.129.150",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
     "proxy": "socks5://68.71.249.153:48606",
     "protocol": "socks5",
     "ip": "68.71.249.153",
     "port": 48606,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://192.111.139.165:4145",
+    "protocol": "socks5",
+    "ip": "192.111.139.165",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "http://213.199.53.16:8888",
+    "protocol": "http",
+    "ip": "213.199.53.16",
+    "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Québec"
+    }
+  },
+  {
+    "proxy": "socks5://68.71.251.134:4145",
+    "protocol": "socks5",
+    "ip": "68.71.251.134",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://68.71.243.14:4145",
+    "protocol": "socks5",
+    "ip": "68.71.243.14",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://34.130.10.208:1080",
+    "protocol": "socks5",
+    "ip": "34.130.10.208",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -741,10 +936,10 @@
     }
   },
   {
-    "proxy": "socks4://134.195.196.161:40000",
-    "protocol": "socks4",
-    "ip": "134.195.196.161",
-    "port": 40000,
+    "proxy": "socks5://159.203.61.169:1080",
+    "protocol": "socks5",
+    "ip": "159.203.61.169",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -754,8 +949,60 @@
     }
   },
   {
-    "proxy": "socks4://144.217.107.25:1080",
-    "protocol": "socks4",
+    "proxy": "socks5://68.71.241.33:4145",
+    "protocol": "socks5",
+    "ip": "68.71.241.33",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://198.8.84.3:4145",
+    "protocol": "socks5",
+    "ip": "198.8.84.3",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://68.233.127.229:1080",
+    "protocol": "socks5",
+    "ip": "68.233.127.229",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Montreal"
+    }
+  },
+  {
+    "proxy": "socks5://68.71.245.206:4145",
+    "protocol": "socks5",
+    "ip": "68.71.245.206",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://144.217.107.25:1080",
+    "protocol": "socks5",
     "ip": "144.217.107.25",
     "port": 1080,
     "https": false,
@@ -764,6 +1011,32 @@
     "geolocation": {
       "country": "CA",
       "city": "Beauharnois"
+    }
+  },
+  {
+    "proxy": "socks5://68.71.247.130:4145",
+    "protocol": "socks5",
+    "ip": "68.71.247.130",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "socks5://185.196.61.251:1080",
+    "protocol": "socks5",
+    "ip": "185.196.61.251",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
     }
   },
   {
@@ -780,48 +1053,9 @@
     }
   },
   {
-    "proxy": "http://184.70.113.34:3128",
-    "protocol": "http",
-    "ip": "184.70.113.34",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Calgary"
-    }
-  },
-  {
-    "proxy": "socks5://192.111.137.34:18765",
-    "protocol": "socks5",
-    "ip": "192.111.137.34",
-    "port": 18765,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
     "proxy": "socks5://68.71.240.210:4145",
     "protocol": "socks5",
     "ip": "68.71.240.210",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks5://68.71.247.130:4145",
-    "protocol": "socks5",
-    "ip": "68.71.247.130",
     "port": 4145,
     "https": false,
     "anonymity": "transparent",
@@ -849,32 +1083,6 @@
     "protocol": "socks5",
     "ip": "192.111.138.29",
     "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "http://185.196.61.251:8081",
-    "protocol": "http",
-    "ip": "185.196.61.251",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks5://192.111.137.37:18762",
-    "protocol": "socks5",
-    "ip": "192.111.137.37",
-    "port": 18762,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -936,32 +1144,6 @@
     }
   },
   {
-    "proxy": "socks5://198.8.94.174:39078",
-    "protocol": "socks5",
-    "ip": "198.8.94.174",
-    "port": 39078,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks5://68.71.245.206:4145",
-    "protocol": "socks5",
-    "ip": "68.71.245.206",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
     "proxy": "socks5://198.8.94.170:4145",
     "protocol": "socks5",
     "ip": "198.8.94.170",
@@ -975,74 +1157,9 @@
     }
   },
   {
-    "proxy": "socks5://159.203.61.169:1080",
-    "protocol": "socks5",
-    "ip": "159.203.61.169",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks5://68.71.241.33:4145",
-    "protocol": "socks5",
-    "ip": "68.71.241.33",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks5://192.111.139.163:19404",
-    "protocol": "socks5",
-    "ip": "192.111.139.163",
-    "port": 19404,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "socks5://192.111.129.150:4145",
-    "protocol": "socks5",
-    "ip": "192.111.129.150",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
     "proxy": "socks5://68.71.252.38:4145",
     "protocol": "socks5",
     "ip": "68.71.252.38",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks5://68.71.251.134:4145",
-    "protocol": "socks5",
-    "ip": "68.71.251.134",
     "port": 4145,
     "https": false,
     "anonymity": "transparent",
@@ -1066,32 +1183,6 @@
     }
   },
   {
-    "proxy": "socks5://192.111.139.165:4145",
-    "protocol": "socks5",
-    "ip": "192.111.139.165",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "socks5://192.111.130.2:4145",
-    "protocol": "socks5",
-    "ip": "192.111.130.2",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
     "proxy": "socks5://164.152.122.199:19100",
     "protocol": "socks5",
     "ip": "164.152.122.199",
@@ -1102,32 +1193,6 @@
     "geolocation": {
       "country": "CA",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://198.8.84.3:4145",
-    "protocol": "socks5",
-    "ip": "198.8.84.3",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://68.71.243.14:4145",
-    "protocol": "socks5",
-    "ip": "68.71.243.14",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
     }
   },
   {
@@ -1222,19 +1287,6 @@
     }
   },
   {
-    "proxy": "socks5://34.130.10.208:1080",
-    "protocol": "socks5",
-    "ip": "34.130.10.208",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
     "proxy": "socks5://34.19.231.225:1080",
     "protocol": "socks5",
     "ip": "34.19.231.225",
@@ -1304,19 +1356,6 @@
     "protocol": "socks5",
     "ip": "34.130.142.151",
     "port": 40001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks5://138.197.148.194:9050",
-    "protocol": "socks5",
-    "ip": "138.197.148.194",
-    "port": 9050,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1833,159 +1872,29 @@
     }
   },
   {
-    "proxy": "http://173.180.22.3:8080",
+    "proxy": "http://134.195.196.161:40000",
     "protocol": "http",
-    "ip": "173.180.22.3",
-    "port": 8080,
+    "ip": "134.195.196.161",
+    "port": 40000,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CA",
-      "city": "Burnaby"
+      "city": "Toronto"
     }
   },
   {
-    "proxy": "http://35.183.127.162:56038",
+    "proxy": "http://35.183.127.162:47072",
     "protocol": "http",
     "ip": "35.183.127.162",
-    "port": 56038,
+    "port": 47072,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CA",
       "city": "Montreal"
-    }
-  },
-  {
-    "proxy": "http://192.111.138.29:4145",
-    "protocol": "http",
-    "ip": "192.111.138.29",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "http://213.199.53.16:8888",
-    "protocol": "http",
-    "ip": "213.199.53.16",
-    "port": 8888,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Québec"
-    }
-  },
-  {
-    "proxy": "http://159.203.13.121:80",
-    "protocol": "http",
-    "ip": "159.203.13.121",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "http://172.105.107.223:3128",
-    "protocol": "http",
-    "ip": "172.105.107.223",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "http://45.61.97.172:6698",
-    "protocol": "http",
-    "ip": "45.61.97.172",
-    "port": 6698,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "http://192.111.129.145:16894",
-    "protocol": "http",
-    "ip": "192.111.129.145",
-    "port": 16894,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "http://158.69.157.172:80",
-    "protocol": "http",
-    "ip": "158.69.157.172",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Montreal"
-    }
-  },
-  {
-    "proxy": "http://192.111.129.150:4145",
-    "protocol": "http",
-    "ip": "192.111.129.150",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Brampton"
-    }
-  },
-  {
-    "proxy": "http://68.233.127.229:1080",
-    "protocol": "http",
-    "ip": "68.233.127.229",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Montreal"
-    }
-  },
-  {
-    "proxy": "http://68.71.247.130:4145",
-    "protocol": "http",
-    "ip": "68.71.247.130",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
     }
   },
   {
@@ -2002,10 +1911,49 @@
     }
   },
   {
+    "proxy": "http://159.203.61.169:3128",
+    "protocol": "http",
+    "ip": "159.203.61.169",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
     "proxy": "http://155.138.132.50:80",
     "protocol": "http",
     "ip": "155.138.132.50",
     "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "http://68.71.240.210:4145",
+    "protocol": "http",
+    "ip": "68.71.240.210",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "http://45.61.100.61:6329",
+    "protocol": "http",
+    "ip": "45.61.100.61",
+    "port": 6329,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -2028,10 +1976,231 @@
     }
   },
   {
-    "proxy": "http://134.195.196.161:40000",
+    "proxy": "http://192.158.15.201:50877",
     "protocol": "http",
-    "ip": "134.195.196.161",
-    "port": 40000,
+    "ip": "192.158.15.201",
+    "port": 50877,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Mississauga"
+    }
+  },
+  {
+    "proxy": "http://172.105.107.223:3128",
+    "protocol": "http",
+    "ip": "172.105.107.223",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "http://68.71.241.33:4145",
+    "protocol": "http",
+    "ip": "68.71.241.33",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "http://68.71.254.6:4145",
+    "protocol": "http",
+    "ip": "68.71.254.6",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "http://68.71.249.158:4145",
+    "protocol": "http",
+    "ip": "68.71.249.158",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "http://192.111.138.29:4145",
+    "protocol": "http",
+    "ip": "192.111.138.29",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "http://192.111.130.2:4145",
+    "protocol": "http",
+    "ip": "192.111.130.2",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "http://45.150.23.67:6537",
+    "protocol": "http",
+    "ip": "45.150.23.67",
+    "port": 6537,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Montreal"
+    }
+  },
+  {
+    "proxy": "http://173.180.22.3:8080",
+    "protocol": "http",
+    "ip": "173.180.22.3",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Burnaby"
+    }
+  },
+  {
+    "proxy": "http://192.111.129.150:4145",
+    "protocol": "http",
+    "ip": "192.111.129.150",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "http://198.8.84.3:4145",
+    "protocol": "http",
+    "ip": "198.8.84.3",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://158.69.157.172:80",
+    "protocol": "http",
+    "ip": "158.69.157.172",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Montreal"
+    }
+  },
+  {
+    "proxy": "http://192.111.137.35:4145",
+    "protocol": "http",
+    "ip": "192.111.137.35",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "http://192.111.129.145:16894",
+    "protocol": "http",
+    "ip": "192.111.129.145",
+    "port": 16894,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "http://68.233.127.229:1080",
+    "protocol": "http",
+    "ip": "68.233.127.229",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Montreal"
+    }
+  },
+  {
+    "proxy": "http://192.111.139.162:4145",
+    "protocol": "http",
+    "ip": "192.111.139.162",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "http://198.8.94.174:39078",
+    "protocol": "http",
+    "ip": "198.8.94.174",
+    "port": 39078,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Toronto"
+    }
+  },
+  {
+    "proxy": "http://68.71.251.134:4145",
+    "protocol": "http",
+    "ip": "68.71.251.134",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -2054,9 +2223,9 @@
     }
   },
   {
-    "proxy": "http://68.71.245.206:4145",
+    "proxy": "http://68.71.242.118:4145",
     "protocol": "http",
-    "ip": "68.71.245.206",
+    "ip": "68.71.242.118",
     "port": 4145,
     "https": false,
     "anonymity": "transparent",
@@ -2067,10 +2236,10 @@
     }
   },
   {
-    "proxy": "http://138.197.148.194:9050",
+    "proxy": "http://159.203.13.121:80",
     "protocol": "http",
-    "ip": "138.197.148.194",
-    "port": 9050,
+    "ip": "159.203.13.121",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -2080,55 +2249,42 @@
     }
   },
   {
-    "proxy": "http://173.182.69.5:5678",
+    "proxy": "http://51.222.14.253:3128",
     "protocol": "http",
-    "ip": "173.182.69.5",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "http://68.71.252.38:4145",
-    "protocol": "http",
-    "ip": "68.71.252.38",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "http://45.61.97.128:6654",
-    "protocol": "http",
-    "ip": "45.61.97.128",
-    "port": 6654,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "http://159.203.61.169:3128",
-    "protocol": "http",
-    "ip": "159.203.61.169",
+    "ip": "51.222.14.253",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CA",
-      "city": "Toronto"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://192.111.137.34:18765",
+    "protocol": "http",
+    "ip": "192.111.137.34",
+    "port": 18765,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Brampton"
+    }
+  },
+  {
+    "proxy": "http://51.79.71.106:8080",
+    "protocol": "http",
+    "ip": "51.79.71.106",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Unknown"
     }
   }
 ]
