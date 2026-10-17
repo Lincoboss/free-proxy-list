@@ -39,9 +39,22 @@
     }
   },
   {
-    "proxy": "http://179.1.182.25:999",
+    "proxy": "http://201.186.41.170:999",
     "protocol": "http",
-    "ip": "179.1.182.25",
+    "ip": "201.186.41.170",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Ancud"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.50:999",
+    "protocol": "http",
+    "ip": "38.7.195.50",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -52,16 +65,16 @@
     }
   },
   {
-    "proxy": "http://146.83.216.227:80",
+    "proxy": "http://179.1.182.28:999",
     "protocol": "http",
-    "ip": "146.83.216.227",
-    "port": 80,
+    "ip": "179.1.182.28",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CL",
-      "city": "Unknown"
+      "city": "Santiago"
     }
   },
   {
@@ -78,10 +91,49 @@
     }
   },
   {
-    "proxy": "http://167.249.29.105:999",
+    "proxy": "http://179.57.172.172:999",
     "protocol": "http",
-    "ip": "167.249.29.105",
+    "ip": "179.57.172.172",
     "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Curicó"
+    }
+  },
+  {
+    "proxy": "http://190.110.96.250:999",
+    "protocol": "http",
+    "ip": "190.110.96.250",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Vilcun"
+    }
+  },
+  {
+    "proxy": "socks4://152.231.81.19:1080",
+    "protocol": "socks4",
+    "ip": "152.231.81.19",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Santiago"
+    }
+  },
+  {
+    "proxy": "socks4://190.54.100.74:5678",
+    "protocol": "socks4",
+    "ip": "190.54.100.74",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -104,9 +156,22 @@
     }
   },
   {
-    "proxy": "http://38.7.195.49:999",
+    "proxy": "http://45.180.26.1:999",
     "protocol": "http",
-    "ip": "38.7.195.49",
+    "ip": "45.180.26.1",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.53:999",
+    "protocol": "http",
+    "ip": "38.7.195.53",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -117,16 +182,68 @@
     }
   },
   {
-    "proxy": "http://181.74.82.91:999",
+    "proxy": "http://186.179.95.241:999",
     "protocol": "http",
-    "ip": "181.74.82.91",
+    "ip": "186.179.95.241",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CL",
-      "city": "Limache"
+      "city": "Santiago"
+    }
+  },
+  {
+    "proxy": "http://186.10.150.185:8080",
+    "protocol": "http",
+    "ip": "186.10.150.185",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Providencia"
+    }
+  },
+  {
+    "proxy": "http://190.110.110.154:999",
+    "protocol": "http",
+    "ip": "190.110.110.154",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Port Montt"
+    }
+  },
+  {
+    "proxy": "http://204.199.139.70:999",
+    "protocol": "http",
+    "ip": "204.199.139.70",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Maria Elena"
+    }
+  },
+  {
+    "proxy": "http://38.7.195.55:999",
+    "protocol": "http",
+    "ip": "38.7.195.55",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Santiago"
     }
   },
   {
@@ -143,114 +260,10 @@
     }
   },
   {
-    "proxy": "http://38.7.195.52:999",
+    "proxy": "http://190.93.229.49:18080",
     "protocol": "http",
-    "ip": "38.7.195.52",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Santiago"
-    }
-  },
-  {
-    "proxy": "http://179.61.110.253:999",
-    "protocol": "http",
-    "ip": "179.61.110.253",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Molina"
-    }
-  },
-  {
-    "proxy": "http://177.128.115.198:999",
-    "protocol": "http",
-    "ip": "177.128.115.198",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Melipilla"
-    }
-  },
-  {
-    "proxy": "http://131.196.177.254:999",
-    "protocol": "http",
-    "ip": "131.196.177.254",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Retiro"
-    }
-  },
-  {
-    "proxy": "http://190.211.250.132:999",
-    "protocol": "http",
-    "ip": "190.211.250.132",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Osorno"
-    }
-  },
-  {
-    "proxy": "http://45.225.205.240:999",
-    "protocol": "http",
-    "ip": "45.225.205.240",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Santiago"
-    }
-  },
-  {
-    "proxy": "http://45.225.207.64:999",
-    "protocol": "http",
-    "ip": "45.225.207.64",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Las Cabras"
-    }
-  },
-  {
-    "proxy": "http://152.230.215.123:80",
-    "protocol": "http",
-    "ip": "152.230.215.123",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Santiago"
-    }
-  },
-  {
-    "proxy": "http://38.7.207.92:80",
-    "protocol": "http",
-    "ip": "38.7.207.92",
-    "port": 80,
+    "ip": "190.93.229.49",
+    "port": 18080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -273,9 +286,9 @@
     }
   },
   {
-    "proxy": "http://38.7.195.55:999",
+    "proxy": "http://167.249.28.73:999",
     "protocol": "http",
-    "ip": "38.7.195.55",
+    "ip": "167.249.28.73",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -283,84 +296,6 @@
     "geolocation": {
       "country": "CL",
       "city": "Santiago"
-    }
-  },
-  {
-    "proxy": "http://200.39.139.65:999",
-    "protocol": "http",
-    "ip": "200.39.139.65",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://45.4.0.12:999",
-    "protocol": "http",
-    "ip": "45.4.0.12",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Santiago"
-    }
-  },
-  {
-    "proxy": "http://179.56.197.216:999",
-    "protocol": "http",
-    "ip": "179.56.197.216",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Port Montt"
-    }
-  },
-  {
-    "proxy": "http://179.61.111.209:999",
-    "protocol": "http",
-    "ip": "179.61.111.209",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Molina"
-    }
-  },
-  {
-    "proxy": "http://45.162.132.9:999",
-    "protocol": "http",
-    "ip": "45.162.132.9",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Puente Alto"
-    }
-  },
-  {
-    "proxy": "http://201.238.248.134:443",
-    "protocol": "http",
-    "ip": "201.238.248.134",
-    "port": 443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Unknown"
     }
   },
   {
@@ -377,6 +312,19 @@
     }
   },
   {
+    "proxy": "http://181.78.234.82:999",
+    "protocol": "http",
+    "ip": "181.78.234.82",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://190.54.100.74:8080",
     "protocol": "http",
     "ip": "190.54.100.74",
@@ -390,10 +338,10 @@
     }
   },
   {
-    "proxy": "http://200.111.104.59:3128",
+    "proxy": "http://152.230.215.123:80",
     "protocol": "http",
-    "ip": "200.111.104.59",
-    "port": 3128,
+    "ip": "152.230.215.123",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -403,29 +351,42 @@
     }
   },
   {
-    "proxy": "http://45.162.132.1:999",
+    "proxy": "http://38.7.195.49:999",
     "protocol": "http",
-    "ip": "45.162.132.1",
+    "ip": "38.7.195.49",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CL",
-      "city": "Puente Alto"
+      "city": "Santiago"
     }
   },
   {
-    "proxy": "http://190.121.4.157:999",
+    "proxy": "http://38.7.207.92:80",
     "protocol": "http",
-    "ip": "190.121.4.157",
+    "ip": "38.7.207.92",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Santiago"
+    }
+  },
+  {
+    "proxy": "http://45.162.135.201:999",
+    "protocol": "http",
+    "ip": "45.162.135.201",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CL",
-      "city": "Valdivia"
+      "city": "Santiago"
     }
   },
   {
@@ -442,9 +403,22 @@
     }
   },
   {
-    "proxy": "http://45.225.204.12:999",
+    "proxy": "http://201.238.248.134:443",
     "protocol": "http",
-    "ip": "45.225.204.12",
+    "ip": "201.238.248.134",
+    "port": 443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://45.225.207.172:999",
+    "protocol": "http",
+    "ip": "45.225.207.172",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -468,16 +442,16 @@
     }
   },
   {
-    "proxy": "http://45.225.204.13:999",
+    "proxy": "http://204.199.139.72:999",
     "protocol": "http",
-    "ip": "45.225.204.13",
+    "ip": "204.199.139.72",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CL",
-      "city": "Las Cabras"
+      "city": "Maria Elena"
     }
   },
   {
@@ -494,9 +468,9 @@
     }
   },
   {
-    "proxy": "http://190.102.233.100:999",
+    "proxy": "http://45.4.2.24:999",
     "protocol": "http",
-    "ip": "190.102.233.100",
+    "ip": "45.4.2.24",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -504,110 +478,6 @@
     "geolocation": {
       "country": "CL",
       "city": "Santiago"
-    }
-  },
-  {
-    "proxy": "http://190.211.250.139:999",
-    "protocol": "http",
-    "ip": "190.211.250.139",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Osorno"
-    }
-  },
-  {
-    "proxy": "http://186.179.95.241:999",
-    "protocol": "http",
-    "ip": "186.179.95.241",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Santiago"
-    }
-  },
-  {
-    "proxy": "http://201.186.41.170:999",
-    "protocol": "http",
-    "ip": "201.186.41.170",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Ancud"
-    }
-  },
-  {
-    "proxy": "http://179.61.98.3:999",
-    "protocol": "http",
-    "ip": "179.61.98.3",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Molina"
-    }
-  },
-  {
-    "proxy": "http://45.162.132.129:999",
-    "protocol": "http",
-    "ip": "45.162.132.129",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Puente Alto"
-    }
-  },
-  {
-    "proxy": "http://45.162.135.201:999",
-    "protocol": "http",
-    "ip": "45.162.135.201",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Santiago"
-    }
-  },
-  {
-    "proxy": "http://179.57.172.172:999",
-    "protocol": "http",
-    "ip": "179.57.172.172",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Curicó"
-    }
-  },
-  {
-    "proxy": "http://45.225.204.11:999",
-    "protocol": "http",
-    "ip": "45.225.204.11",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CL",
-      "city": "Las Cabras"
     }
   }
 ]
