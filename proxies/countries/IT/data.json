@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "socks4://91.192.25.158:4145",
+    "protocol": "socks4",
+    "ip": "91.192.25.158",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "San Giovanni Valdarno"
+    }
+  },
+  {
     "proxy": "https://93.63.43.131:443",
     "protocol": "https",
     "ip": "93.63.43.131",
@@ -130,6 +143,32 @@
     }
   },
   {
+    "proxy": "https://194.243.172.243:443",
+    "protocol": "https",
+    "ip": "194.243.172.243",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Rome"
+    }
+  },
+  {
+    "proxy": "https://83.103.36.213:443",
+    "protocol": "https",
+    "ip": "83.103.36.213",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Arcore"
+    }
+  },
+  {
     "proxy": "https://2.228.224.4:443",
     "protocol": "https",
     "ip": "2.228.224.4",
@@ -208,6 +247,32 @@
     }
   },
   {
+    "proxy": "https://188.219.81.243:443",
+    "protocol": "https",
+    "ip": "188.219.81.243",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Modena"
+    }
+  },
+  {
+    "proxy": "https://188.219.81.246:443",
+    "protocol": "https",
+    "ip": "188.219.81.246",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Modena"
+    }
+  },
+  {
     "proxy": "https://37.100.85.116:443",
     "protocol": "https",
     "ip": "37.100.85.116",
@@ -218,19 +283,6 @@
     "geolocation": {
       "country": "IT",
       "city": "Torre del Greco"
-    }
-  },
-  {
-    "proxy": "https://185.68.191.63:443",
-    "protocol": "https",
-    "ip": "185.68.191.63",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Unknown"
     }
   },
   {
@@ -247,10 +299,10 @@
     }
   },
   {
-    "proxy": "socks4://34.154.195.225:40001",
-    "protocol": "socks4",
-    "ip": "34.154.195.225",
-    "port": 40001,
+    "proxy": "http://185.191.106.0:8081",
+    "protocol": "http",
+    "ip": "185.191.106.0",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -429,19 +481,6 @@
     }
   },
   {
-    "proxy": "http://185.8.148.81:8085",
-    "protocol": "http",
-    "ip": "185.8.148.81",
-    "port": 8085,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Mariano Comense"
-    }
-  },
-  {
     "proxy": "http://85.208.200.185:8081",
     "protocol": "http",
     "ip": "85.208.200.185",
@@ -468,42 +507,29 @@
     }
   },
   {
-    "proxy": "http://5.59.248.134:8081",
+    "proxy": "http://185.8.148.81:8085",
     "protocol": "http",
-    "ip": "5.59.248.134",
-    "port": 8081,
+    "ip": "185.8.148.81",
+    "port": 8085,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IT",
-      "city": "Pomezia"
+      "city": "Mariano Comense"
     }
   },
   {
-    "proxy": "http://77.89.35.50:8080",
+    "proxy": "http://93.55.126.162:8080",
     "protocol": "http",
-    "ip": "77.89.35.50",
+    "ip": "93.55.126.162",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IT",
-      "city": "Massa Lombarda"
-    }
-  },
-  {
-    "proxy": "http://185.191.106.41:8081",
-    "protocol": "http",
-    "ip": "185.191.106.41",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Milan"
+      "city": "Marsala"
     }
   },
   {
@@ -533,16 +559,68 @@
     }
   },
   {
-    "proxy": "http://185.191.106.0:8081",
+    "proxy": "http://46.21.186.252:1080",
     "protocol": "http",
-    "ip": "185.191.106.0",
-    "port": 8081,
+    "ip": "46.21.186.252",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IT",
-      "city": "Milan"
+      "city": "Segrate"
+    }
+  },
+  {
+    "proxy": "http://77.89.35.50:8080",
+    "protocol": "http",
+    "ip": "77.89.35.50",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Massa Lombarda"
+    }
+  },
+  {
+    "proxy": "http://93.42.151.100:8080",
+    "protocol": "http",
+    "ip": "93.42.151.100",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Nave"
+    }
+  },
+  {
+    "proxy": "http://212.28.178.216:1080",
+    "protocol": "http",
+    "ip": "212.28.178.216",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://77.242.177.57:3129",
+    "protocol": "http",
+    "ip": "77.242.177.57",
+    "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Biella"
     }
   }
 ]

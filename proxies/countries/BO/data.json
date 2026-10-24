@@ -1,28 +1,15 @@
 [
   {
-    "proxy": "socks4://200.105.192.6:5678",
-    "protocol": "socks4",
-    "ip": "200.105.192.6",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BO",
-      "city": "La Paz"
-    }
-  },
-  {
-    "proxy": "http://190.104.26.227:33638",
+    "proxy": "http://166.114.65.242:8080",
     "protocol": "http",
-    "ip": "190.104.26.227",
-    "port": 33638,
+    "ip": "166.114.65.242",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BO",
-      "city": "La Paz"
+      "city": "Unknown"
     }
   },
   {
@@ -39,16 +26,16 @@
     }
   },
   {
-    "proxy": "http://181.115.207.115:1080",
+    "proxy": "http://190.104.26.227:33638",
     "protocol": "http",
-    "ip": "181.115.207.115",
-    "port": 1080,
+    "ip": "190.104.26.227",
+    "port": 33638,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BO",
-      "city": "Santa Cruz"
+      "city": "La Paz"
     }
   },
   {
@@ -62,32 +49,6 @@
     "geolocation": {
       "country": "BO",
       "city": "Santa Cruz"
-    }
-  },
-  {
-    "proxy": "http://200.105.192.6:5678",
-    "protocol": "http",
-    "ip": "200.105.192.6",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BO",
-      "city": "La Paz"
-    }
-  },
-  {
-    "proxy": "http://186.121.244.178:8080",
-    "protocol": "http",
-    "ip": "186.121.244.178",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BO",
-      "city": "Unknown"
     }
   }
 ]
