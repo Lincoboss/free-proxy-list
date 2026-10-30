@@ -65,6 +65,19 @@
     }
   },
   {
+    "proxy": "https://107.167.191.95:8443",
+    "protocol": "https",
+    "ip": "107.167.191.95",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Taipei"
+    }
+  },
+  {
     "proxy": "socks4://125.228.94.153:4145",
     "protocol": "socks4",
     "ip": "125.228.94.153",
@@ -88,58 +101,6 @@
     "geolocation": {
       "country": "TW",
       "city": "Taipei"
-    }
-  },
-  {
-    "proxy": "socks4://1.168.186.112:10808",
-    "protocol": "socks4",
-    "ip": "1.168.186.112",
-    "port": 10808,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Taichung"
-    }
-  },
-  {
-    "proxy": "http://34.81.160.132:80",
-    "protocol": "http",
-    "ip": "34.81.160.132",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Taipei"
-    }
-  },
-  {
-    "proxy": "http://122.117.203.252:3128",
-    "protocol": "http",
-    "ip": "122.117.203.252",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Kaohsiung City"
-    }
-  },
-  {
-    "proxy": "http://59.124.62.9:3128",
-    "protocol": "http",
-    "ip": "59.124.62.9",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Taoyuan District"
     }
   },
   {
@@ -403,6 +364,32 @@
     }
   },
   {
+    "proxy": "http://122.117.203.252:3128",
+    "protocol": "http",
+    "ip": "122.117.203.252",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Kaohsiung City"
+    }
+  },
+  {
+    "proxy": "http://59.124.62.9:3128",
+    "protocol": "http",
+    "ip": "59.124.62.9",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Taoyuan District"
+    }
+  },
+  {
     "proxy": "http://164.52.11.194:18080",
     "protocol": "http",
     "ip": "164.52.11.194",
@@ -481,10 +468,36 @@
     }
   },
   {
+    "proxy": "http://34.81.160.132:80",
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Taipei"
+    }
+  },
+  {
     "proxy": "http://125.228.143.207:4145",
     "protocol": "http",
     "ip": "125.228.143.207",
     "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "New Taipei"
+    }
+  },
+  {
+    "proxy": "http://210.61.216.63:60808",
+    "protocol": "http",
+    "ip": "210.61.216.63",
+    "port": 60808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

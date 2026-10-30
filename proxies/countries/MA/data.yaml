@@ -1,0 +1,20 @@
+- proxy: socks5://105.159.153.123:4567
+  protocol: socks5
+  ip: 105.159.153.123
+  port: 4567
+  https: false
+  anonymity: transparent
+  score: 1
+  geolocation:
+    country: MA
+    city: Casablanca
+- proxy: socks5://105.159.150.184:4042
+  protocol: socks5
+  ip: 105.159.150.184
+  port: 4042
+  https: false
+  anonymity: transparent
+  score: 1
+  geolocation:
+    country: MA
+    city: Casablanca
