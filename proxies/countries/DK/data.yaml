@@ -78,10 +78,10 @@
   geolocation:
     country: DK
     city: Copenhagen
-- proxy: http://5.104.81.203:8080
-  protocol: http
-  ip: 5.104.81.203
-  port: 8080
+- proxy: socks4://159.195.62.125:9050
+  protocol: socks4
+  ip: 159.195.62.125
+  port: 9050
   https: false
   anonymity: transparent
   score: 1
